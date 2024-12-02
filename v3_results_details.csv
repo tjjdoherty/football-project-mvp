@@ -1,0 +1,761 @@
+Actual Result,Predicted Result,date,Venue,home_team,Home GF,Away GF,away_team,Home Manager,Away Manager,Day
+1,1,2014-08-16,Emirates Stadium,Arsenal,2,1,Crystal Palace,Arsène Wenger,Tony Pulis,Saturday
+-1,-1,2014-08-18,Turf Moor,Burnley,1,3,Chelsea,Sean Dyche,José Mourinho,Monday
+0,0,2014-08-16,King Power Stadium,Leicester City,2,2,Everton,Nigel Pearson,Roberto Martínez,Saturday
+1,1,2014-08-17,Anfield,Liverpool,2,1,Southampton,Brendan Rodgers,Ronald Koeman,Sunday
+-1,1,2014-08-16,Old Trafford,Manchester United,1,2,Swansea City,Louis van Gaal,Garry Monk,Saturday
+-1,-1,2014-08-17,St James' Park,Newcastle United,0,2,Manchester City,Alan Pardew,Manuel Pellegrini,Sunday
+-1,-1,2014-08-16,Loftus Road,Queens Park Rangers,0,1,Hull City,Harry Redknapp,Steve Bruce,Saturday
+-1,-1,2014-08-16,bet365 Stadium,Stoke City,0,1,Aston Villa,Mark Hughes,Paul Lambert,Saturday
+0,0,2014-08-16,The Hawthorns,West Bromwich Albion,2,2,Sunderland,Alan Irvine,Gus Poyet,Saturday
+-1,-1,2014-08-16,Upton Park,West Ham United,0,1,Tottenham Hotspur,Sam Allardyce,Mauricio Pochettino,Saturday
+1,1,2014-11-01,Emirates Stadium,Arsenal,3,0,Burnley,Arsène Wenger,Sean Dyche,Saturday
+-1,-1,2014-11-02,Villa Park,Aston Villa,1,2,Tottenham Hotspur,Paul Lambert,Mauricio Pochettino,Sunday
+1,1,2014-11-01,Stamford Bridge,Chelsea,2,1,Queens Park Rangers,José Mourinho,Harry Redknapp,Saturday
+-1,-1,2014-11-03,Selhurst Park,Crystal Palace,1,3,Sunderland,Neil Warnock,Gus Poyet,Monday
+0,1,2014-11-01,Goodison Park,Everton,0,0,Swansea City,Roberto Martínez,Garry Monk,Saturday
+-1,-1,2014-11-01,MKM Stadium,Hull City,0,1,Southampton,Steve Bruce,Ronald Koeman,Saturday
+-1,-1,2014-11-01,King Power Stadium,Leicester City,0,1,West Bromwich Albion,Nigel Pearson,Alan Irvine,Saturday
+1,1,2014-11-02,Etihad Stadium,Manchester City,1,0,Manchester United,Manuel Pellegrini,Louis van Gaal,Sunday
+1,1,2014-11-01,St James' Park,Newcastle United,1,0,Liverpool,Alan Pardew,Brendan Rodgers,Saturday
+0,0,2014-11-01,bet365 Stadium,Stoke City,2,2,West Ham United,Mark Hughes,Sam Allardyce,Saturday
+1,1,2014-11-08,Turf Moor,Burnley,1,0,Hull City,Sean Dyche,Steve Bruce,Saturday
+-1,1,2014-11-08,Anfield,Liverpool,1,2,Chelsea,Brendan Rodgers,José Mourinho,Saturday
+1,1,2014-11-08,Old Trafford,Manchester United,1,0,Crystal Palace,Louis van Gaal,Neil Warnock,Saturday
+0,0,2014-11-08,Loftus Road,Queens Park Rangers,2,2,Manchester City,Harry Redknapp,Manuel Pellegrini,Saturday
+1,1,2014-11-08,St Mary's Stadium,Southampton,2,0,Leicester City,Ronald Koeman,Nigel Pearson,Saturday
+0,0,2014-11-09,Stadium of Light,Sunderland,1,1,Everton,Gus Poyet,Roberto Martínez,Sunday
+1,1,2014-11-09,Swansea.com Stadium,Swansea City,2,1,Arsenal,Garry Monk,Arsène Wenger,Sunday
+-1,1,2014-11-09,White Hart Lane,Tottenham Hotspur,1,2,Stoke City,Mauricio Pochettino,Mark Hughes,Sunday
+-1,-1,2014-11-09,The Hawthorns,West Bromwich Albion,0,2,Newcastle United,Alan Irvine,Alan Pardew,Sunday
+0,0,2014-11-08,Upton Park,West Ham United,0,0,Aston Villa,Sam Allardyce,Paul Lambert,Saturday
+-1,-1,2014-11-22,Emirates Stadium,Arsenal,1,2,Manchester United,Arsène Wenger,Louis van Gaal,Saturday
+0,0,2014-11-24,Villa Park,Aston Villa,1,1,Southampton,Paul Lambert,Ronald Koeman,Monday
+1,1,2014-11-22,Stamford Bridge,Chelsea,2,0,West Bromwich Albion,José Mourinho,Alan Irvine,Saturday
+1,1,2014-11-23,Selhurst Park,Crystal Palace,3,1,Liverpool,Neil Warnock,Brendan Rodgers,Sunday
+1,1,2014-11-22,Goodison Park,Everton,2,1,West Ham United,Roberto Martínez,Sam Allardyce,Saturday
+-1,-1,2014-11-23,MKM Stadium,Hull City,1,2,Tottenham Hotspur,Steve Bruce,Mauricio Pochettino,Sunday
+0,0,2014-11-22,King Power Stadium,Leicester City,0,0,Sunderland,Nigel Pearson,Gus Poyet,Saturday
+1,1,2014-11-22,Etihad Stadium,Manchester City,2,1,Swansea City,Manuel Pellegrini,Garry Monk,Saturday
+1,1,2014-11-22,St James' Park,Newcastle United,1,0,Queens Park Rangers,Alan Pardew,Harry Redknapp,Saturday
+-1,-1,2014-11-22,bet365 Stadium,Stoke City,1,2,Burnley,Mark Hughes,Sean Dyche,Saturday
+0,0,2014-11-29,Turf Moor,Burnley,1,1,Aston Villa,Sean Dyche,Paul Lambert,Saturday
+1,1,2014-11-29,Anfield,Liverpool,1,0,Stoke City,Brendan Rodgers,Mark Hughes,Saturday
+1,1,2014-11-29,Old Trafford,Manchester United,3,0,Hull City,Louis van Gaal,Steve Bruce,Saturday
+1,1,2014-11-29,Loftus Road,Queens Park Rangers,3,2,Leicester City,Harry Redknapp,Nigel Pearson,Saturday
+-1,-1,2014-11-30,St Mary's Stadium,Southampton,0,3,Manchester City,Ronald Koeman,Manuel Pellegrini,Sunday
+0,-1,2014-11-29,Stadium of Light,Sunderland,0,0,Chelsea,Gus Poyet,José Mourinho,Saturday
+0,0,2014-11-29,Swansea.com Stadium,Swansea City,1,1,Crystal Palace,Garry Monk,Neil Warnock,Saturday
+1,1,2014-11-30,White Hart Lane,Tottenham Hotspur,2,1,Everton,Mauricio Pochettino,Roberto Martínez,Sunday
+-1,-1,2014-11-29,The Hawthorns,West Bromwich Albion,0,1,Arsenal,Alan Irvine,Arsène Wenger,Saturday
+1,1,2014-11-29,Upton Park,West Ham United,1,0,Newcastle United,Sam Allardyce,Alan Pardew,Saturday
+1,1,2014-12-03,Emirates Stadium,Arsenal,1,0,Southampton,Arsène Wenger,Ronald Koeman,Wednesday
+0,0,2014-12-02,Turf Moor,Burnley,1,1,Newcastle United,Sean Dyche,Alan Pardew,Tuesday
+-1,-1,2014-12-02,King Power Stadium,Leicester City,1,3,Liverpool,Nigel Pearson,Brendan Rodgers,Tuesday
+1,1,2014-12-02,Old Trafford,Manchester United,2,1,Stoke City,Louis van Gaal,Mark Hughes,Tuesday
+1,1,2014-12-02,Swansea.com Stadium,Swansea City,2,0,Queens Park Rangers,Garry Monk,Harry Redknapp,Tuesday
+-1,-1,2014-12-02,Selhurst Park,Crystal Palace,0,1,Aston Villa,Neil Warnock,Paul Lambert,Tuesday
+-1,-1,2014-12-02,The Hawthorns,West Bromwich Albion,1,2,West Ham United,Alan Irvine,Sam Allardyce,Tuesday
+1,1,2014-12-03,Stamford Bridge,Chelsea,3,0,Tottenham Hotspur,José Mourinho,Mauricio Pochettino,Wednesday
+0,0,2014-12-03,Goodison Park,Everton,1,1,Hull City,Roberto Martínez,Steve Bruce,Wednesday
+-1,-1,2014-12-03,Stadium of Light,Sunderland,1,4,Manchester City,Gus Poyet,Manuel Pellegrini,Wednesday
+1,1,2014-12-07,Villa Park,Aston Villa,2,1,Leicester City,Paul Lambert,Nigel Pearson,Sunday
+0,0,2014-12-06,MKM Stadium,Hull City,0,0,West Bromwich Albion,Steve Bruce,Alan Irvine,Saturday
+0,1,2014-12-06,Anfield,Liverpool,0,0,Sunderland,Brendan Rodgers,Gus Poyet,Saturday
+1,1,2014-12-06,Etihad Stadium,Manchester City,1,0,Everton,Manuel Pellegrini,Roberto Martínez,Saturday
+1,1,2014-12-06,St James' Park,Newcastle United,2,1,Chelsea,Alan Pardew,José Mourinho,Saturday
+1,1,2014-12-06,Loftus Road,Queens Park Rangers,2,0,Burnley,Harry Redknapp,Sean Dyche,Saturday
+-1,-1,2014-12-08,St Mary's Stadium,Southampton,1,2,Manchester United,Ronald Koeman,Louis van Gaal,Monday
+1,1,2014-12-06,bet365 Stadium,Stoke City,3,2,Arsenal,Mark Hughes,Arsène Wenger,Saturday
+0,1,2014-12-06,White Hart Lane,Tottenham Hotspur,0,0,Crystal Palace,Mauricio Pochettino,Neil Warnock,Saturday
+1,1,2014-12-07,Upton Park,West Ham United,3,1,Swansea City,Sam Allardyce,Garry Monk,Sunday
+1,1,2014-12-13,Emirates Stadium,Arsenal,4,1,Newcastle United,Arsène Wenger,Alan Pardew,Saturday
+1,1,2014-12-13,Turf Moor,Burnley,1,0,Southampton,Sean Dyche,Ronald Koeman,Saturday
+1,1,2014-12-13,Stamford Bridge,Chelsea,2,0,Hull City,José Mourinho,Steve Bruce,Saturday
+0,0,2014-12-13,Selhurst Park,Crystal Palace,1,1,Stoke City,Neil Warnock,Mark Hughes,Saturday
+1,1,2014-12-15,Goodison Park,Everton,3,1,Queens Park Rangers,Roberto Martínez,Harry Redknapp,Monday
+-1,-1,2014-12-13,King Power Stadium,Leicester City,0,1,Manchester City,Nigel Pearson,Manuel Pellegrini,Saturday
+1,1,2014-12-14,Old Trafford,Manchester United,3,0,Liverpool,Louis van Gaal,Brendan Rodgers,Sunday
+0,0,2014-12-13,Stadium of Light,Sunderland,1,1,West Ham United,Gus Poyet,Sam Allardyce,Saturday
+-1,-1,2014-12-14,Swansea.com Stadium,Swansea City,1,2,Tottenham Hotspur,Garry Monk,Mauricio Pochettino,Sunday
+1,1,2014-12-13,The Hawthorns,West Bromwich Albion,1,0,Aston Villa,Alan Irvine,Paul Lambert,Saturday
+0,0,2014-12-20,Villa Park,Aston Villa,1,1,Manchester United,Paul Lambert,Louis van Gaal,Saturday
+-1,1,2014-12-20,MKM Stadium,Hull City,0,1,Swansea City,Steve Bruce,Garry Monk,Saturday
+0,0,2014-12-21,Anfield,Liverpool,2,2,Arsenal,Brendan Rodgers,Arsène Wenger,Sunday
+1,1,2014-12-20,Etihad Stadium,Manchester City,3,0,Crystal Palace,Manuel Pellegrini,Neil Warnock,Saturday
+-1,-1,2014-12-21,St James' Park,Newcastle United,0,1,Sunderland,Alan Pardew,Gus Poyet,Sunday
+1,1,2014-12-20,Loftus Road,Queens Park Rangers,3,2,West Bromwich Albion,Harry Redknapp,Alan Irvine,Saturday
+1,1,2014-12-20,St Mary's Stadium,Southampton,3,0,Everton,Ronald Koeman,Roberto Martínez,Saturday
+-1,-1,2014-12-22,bet365 Stadium,Stoke City,0,2,Chelsea,Mark Hughes,José Mourinho,Monday
+1,1,2014-12-20,White Hart Lane,Tottenham Hotspur,2,1,Burnley,Mauricio Pochettino,Sean Dyche,Saturday
+1,1,2014-12-20,Upton Park,West Ham United,2,0,Leicester City,Sam Allardyce,Nigel Pearson,Saturday
+1,1,2014-12-26,Emirates Stadium,Arsenal,2,1,Queens Park Rangers,Arsène Wenger,Harry Redknapp,Friday
+-1,-1,2014-12-26,Turf Moor,Burnley,0,1,Liverpool,Sean Dyche,Brendan Rodgers,Friday
+1,1,2014-12-26,Stamford Bridge,Chelsea,2,0,West Ham United,José Mourinho,Sam Allardyce,Friday
+-1,-1,2014-12-26,Selhurst Park,Crystal Palace,1,3,Southampton,Neil Warnock,Ronald Koeman,Friday
+-1,-1,2014-12-26,Goodison Park,Everton,0,1,Stoke City,Roberto Martínez,Mark Hughes,Friday
+-1,-1,2014-12-26,King Power Stadium,Leicester City,1,2,Tottenham Hotspur,Nigel Pearson,Mauricio Pochettino,Friday
+1,1,2014-12-26,Old Trafford,Manchester United,3,1,Newcastle United,Louis van Gaal,Alan Pardew,Friday
+-1,-1,2014-12-26,Stadium of Light,Sunderland,1,3,Hull City,Gus Poyet,Steve Bruce,Friday
+1,1,2014-12-26,Swansea.com Stadium,Swansea City,1,0,Aston Villa,Garry Monk,Paul Lambert,Friday
+-1,-1,2014-12-26,The Hawthorns,West Bromwich Albion,1,3,Manchester City,Alan Irvine,Manuel Pellegrini,Friday
+0,0,2014-12-28,Villa Park,Aston Villa,0,0,Sunderland,Paul Lambert,Gus Poyet,Sunday
+-1,-1,2014-12-28,MKM Stadium,Hull City,0,1,Leicester City,Steve Bruce,Nigel Pearson,Sunday
+1,1,2014-12-29,Anfield,Liverpool,4,1,Swansea City,Brendan Rodgers,Garry Monk,Monday
+0,0,2014-12-28,Etihad Stadium,Manchester City,2,2,Burnley,Manuel Pellegrini,Sean Dyche,Sunday
+1,1,2014-12-28,St James' Park,Newcastle United,3,2,Everton,Alan Pardew,Roberto Martínez,Sunday
+0,0,2014-12-28,Loftus Road,Queens Park Rangers,0,0,Crystal Palace,Harry Redknapp,Neil Warnock,Sunday
+0,-1,2014-12-28,St Mary's Stadium,Southampton,1,1,Chelsea,Ronald Koeman,José Mourinho,Sunday
+1,1,2014-12-28,bet365 Stadium,Stoke City,2,0,West Bromwich Albion,Mark Hughes,Alan Irvine,Sunday
+0,1,2014-12-28,White Hart Lane,Tottenham Hotspur,0,0,Manchester United,Mauricio Pochettino,Louis van Gaal,Sunday
+-1,-1,2014-12-28,Upton Park,West Ham United,1,2,Arsenal,Sam Allardyce,Arsène Wenger,Sunday
+0,0,2014-08-23,Villa Park,Aston Villa,0,0,Newcastle United,Paul Lambert,Alan Pardew,Saturday
+1,1,2014-08-23,Stamford Bridge,Chelsea,2,0,Leicester City,José Mourinho,Nigel Pearson,Saturday
+-1,-1,2014-08-23,Selhurst Park,Crystal Palace,1,3,West Ham United,Tony Pulis,Sam Allardyce,Saturday
+0,0,2014-08-23,Goodison Park,Everton,2,2,Arsenal,Roberto Martínez,Arsène Wenger,Saturday
+0,0,2014-08-24,MKM Stadium,Hull City,1,1,Stoke City,Steve Bruce,Mark Hughes,Sunday
+1,1,2014-08-25,Etihad Stadium,Manchester City,3,1,Liverpool,Manuel Pellegrini,Brendan Rodgers,Monday
+0,0,2014-08-23,St Mary's Stadium,Southampton,0,0,West Bromwich Albion,Ronald Koeman,Alan Irvine,Saturday
+0,0,2014-08-24,Stadium of Light,Sunderland,1,1,Manchester United,Gus Poyet,Louis van Gaal,Sunday
+1,1,2014-08-23,Swansea.com Stadium,Swansea City,1,0,Burnley,Garry Monk,Sean Dyche,Saturday
+1,1,2014-08-24,White Hart Lane,Tottenham Hotspur,4,0,Queens Park Rangers,Mauricio Pochettino,Harry Redknapp,Sunday
+0,0,2015-01-01,Villa Park,Aston Villa,0,0,Crystal Palace,Paul Lambert,Neil Warnock,Thursday
+1,1,2015-01-01,MKM Stadium,Hull City,2,0,Everton,Steve Bruce,Roberto Martínez,Thursday
+0,0,2015-01-01,Anfield,Liverpool,2,2,Leicester City,Brendan Rodgers,Nigel Pearson,Thursday
+1,1,2015-01-01,Etihad Stadium,Manchester City,3,2,Sunderland,Manuel Pellegrini,Gus Poyet,Thursday
+0,0,2015-01-01,St James' Park,Newcastle United,3,3,Burnley,John Carver,Sean Dyche,Thursday
+0,0,2015-01-01,Loftus Road,Queens Park Rangers,1,1,Swansea City,Harry Redknapp,Garry Monk,Thursday
+1,1,2015-01-01,St Mary's Stadium,Southampton,2,0,Arsenal,Ronald Koeman,Arsène Wenger,Thursday
+0,0,2015-01-01,bet365 Stadium,Stoke City,1,1,Manchester United,Mark Hughes,Louis van Gaal,Thursday
+1,1,2015-01-01,White Hart Lane,Tottenham Hotspur,5,3,Chelsea,Mauricio Pochettino,José Mourinho,Thursday
+0,0,2015-01-01,Upton Park,West Ham United,1,1,West Bromwich Albion,Sam Allardyce,Tony Pulis,Thursday
+1,1,2015-01-11,Emirates Stadium,Arsenal,3,0,Stoke City,Arsène Wenger,Mark Hughes,Sunday
+1,1,2015-01-10,Turf Moor,Burnley,2,1,Queens Park Rangers,Sean Dyche,Harry Redknapp,Saturday
+1,1,2015-01-10,Stamford Bridge,Chelsea,2,0,Newcastle United,José Mourinho,John Carver,Saturday
+1,1,2015-01-10,Selhurst Park,Crystal Palace,2,1,Tottenham Hotspur,Alan Pardew,Mauricio Pochettino,Saturday
+0,-1,2015-01-10,Goodison Park,Everton,1,1,Manchester City,Roberto Martínez,Manuel Pellegrini,Saturday
+1,1,2015-01-10,King Power Stadium,Leicester City,1,0,Aston Villa,Nigel Pearson,Paul Lambert,Saturday
+-1,-1,2015-01-11,Old Trafford,Manchester United,0,1,Southampton,Louis van Gaal,Ronald Koeman,Sunday
+-1,-1,2015-01-10,Stadium of Light,Sunderland,0,1,Liverpool,Gus Poyet,Brendan Rodgers,Saturday
+0,0,2015-01-10,Swansea.com Stadium,Swansea City,1,1,West Ham United,Garry Monk,Sam Allardyce,Saturday
+1,1,2015-01-10,The Hawthorns,West Bromwich Albion,1,0,Hull City,Tony Pulis,Steve Bruce,Saturday
+-1,-1,2015-01-17,Villa Park,Aston Villa,0,2,Liverpool,Paul Lambert,Brendan Rodgers,Saturday
+-1,-1,2015-01-17,Turf Moor,Burnley,2,3,Crystal Palace,Sean Dyche,Alan Pardew,Saturday
+0,0,2015-01-19,Goodison Park,Everton,0,0,West Bromwich Albion,Roberto Martínez,Tony Pulis,Monday
+-1,1,2015-01-17,King Power Stadium,Leicester City,0,1,Stoke City,Nigel Pearson,Mark Hughes,Saturday
+-1,1,2015-01-18,Etihad Stadium,Manchester City,0,2,Arsenal,Manuel Pellegrini,Arsène Wenger,Sunday
+-1,-1,2015-01-17,St James' Park,Newcastle United,1,2,Southampton,John Carver,Ronald Koeman,Saturday
+-1,-1,2015-01-17,Loftus Road,Queens Park Rangers,0,2,Manchester United,Harry Redknapp,Louis van Gaal,Saturday
+-1,-1,2015-01-17,Swansea.com Stadium,Swansea City,0,5,Chelsea,Garry Monk,José Mourinho,Saturday
+1,1,2015-01-17,White Hart Lane,Tottenham Hotspur,2,1,Sunderland,Mauricio Pochettino,Gus Poyet,Saturday
+1,1,2015-01-18,Upton Park,West Ham United,3,0,Hull City,Sam Allardyce,Steve Bruce,Sunday
+1,1,2015-02-01,Emirates Stadium,Arsenal,5,0,Aston Villa,Arsène Wenger,Paul Lambert,Sunday
+0,1,2015-01-31,Stamford Bridge,Chelsea,1,1,Manchester City,José Mourinho,Manuel Pellegrini,Saturday
+-1,-1,2015-01-31,Selhurst Park,Crystal Palace,0,1,Everton,Alan Pardew,Roberto Martínez,Saturday
+-1,-1,2015-01-31,MKM Stadium,Hull City,0,3,Newcastle United,Steve Bruce,John Carver,Saturday
+1,1,2015-01-31,Anfield,Liverpool,2,0,West Ham United,Brendan Rodgers,Sam Allardyce,Saturday
+1,1,2015-01-31,Old Trafford,Manchester United,3,1,Leicester City,Louis van Gaal,Nigel Pearson,Saturday
+-1,1,2015-02-01,St Mary's Stadium,Southampton,0,1,Swansea City,Ronald Koeman,Garry Monk,Sunday
+1,1,2015-01-31,bet365 Stadium,Stoke City,3,1,Queens Park Rangers,Mark Hughes,Harry Redknapp,Saturday
+1,1,2015-01-31,Stadium of Light,Sunderland,2,0,Burnley,Gus Poyet,Sean Dyche,Saturday
+-1,-1,2015-01-31,The Hawthorns,West Bromwich Albion,0,3,Tottenham Hotspur,Tony Pulis,Mauricio Pochettino,Saturday
+-1,-1,2015-02-07,Villa Park,Aston Villa,1,2,Chelsea,Paul Lambert,José Mourinho,Saturday
+0,0,2015-02-08,Turf Moor,Burnley,2,2,West Bromwich Albion,Sean Dyche,Tony Pulis,Sunday
+0,-1,2015-02-07,Goodison Park,Everton,0,0,Liverpool,Roberto Martínez,Brendan Rodgers,Saturday
+-1,-1,2015-02-07,King Power Stadium,Leicester City,0,1,Crystal Palace,Nigel Pearson,Alan Pardew,Saturday
+0,1,2015-02-07,Etihad Stadium,Manchester City,1,1,Hull City,Manuel Pellegrini,Steve Bruce,Saturday
+0,0,2015-02-08,St James' Park,Newcastle United,1,1,Stoke City,John Carver,Mark Hughes,Sunday
+-1,-1,2015-02-07,Loftus Road,Queens Park Rangers,0,1,Southampton,Chris Ramsey,Ronald Koeman,Saturday
+0,0,2015-02-07,Swansea.com Stadium,Swansea City,1,1,Sunderland,Garry Monk,Gus Poyet,Saturday
+1,1,2015-02-07,White Hart Lane,Tottenham Hotspur,2,1,Arsenal,Mauricio Pochettino,Arsène Wenger,Saturday
+0,0,2015-02-08,Upton Park,West Ham United,1,1,Manchester United,Sam Allardyce,Louis van Gaal,Sunday
+1,1,2015-02-10,Emirates Stadium,Arsenal,2,1,Leicester City,Arsène Wenger,Nigel Pearson,Tuesday
+1,1,2015-02-10,MKM Stadium,Hull City,2,0,Aston Villa,Steve Bruce,Paul Lambert,Tuesday
+1,1,2015-02-11,Old Trafford,Manchester United,3,1,Burnley,Louis van Gaal,Sean Dyche,Wednesday
+0,0,2015-02-11,St Mary's Stadium,Southampton,0,0,West Ham United,Ronald Koeman,Sam Allardyce,Wednesday
+0,0,2015-02-11,Selhurst Park,Crystal Palace,1,1,Newcastle United,Alan Pardew,John Carver,Wednesday
+1,1,2015-02-10,Anfield,Liverpool,3,2,Tottenham Hotspur,Brendan Rodgers,Mauricio Pochettino,Tuesday
+1,1,2015-02-11,The Hawthorns,West Bromwich Albion,2,0,Swansea City,Tony Pulis,Garry Monk,Wednesday
+1,1,2015-02-11,Stamford Bridge,Chelsea,1,0,Everton,José Mourinho,Roberto Martínez,Wednesday
+-1,1,2015-02-11,bet365 Stadium,Stoke City,1,4,Manchester City,Mark Hughes,Manuel Pellegrini,Wednesday
+-1,-1,2015-02-10,Stadium of Light,Sunderland,0,2,Queens Park Rangers,Gus Poyet,Chris Ramsey,Tuesday
+-1,-1,2015-02-21,Villa Park,Aston Villa,1,2,Stoke City,Tim Sherwood,Mark Hughes,Saturday
+0,0,2015-02-21,Stamford Bridge,Chelsea,1,1,Burnley,José Mourinho,Sean Dyche,Saturday
+-1,-1,2015-02-21,Selhurst Park,Crystal Palace,1,2,Arsenal,Alan Pardew,Arsène Wenger,Saturday
+0,1,2015-02-22,Goodison Park,Everton,2,2,Leicester City,Roberto Martínez,Nigel Pearson,Sunday
+1,1,2015-02-21,MKM Stadium,Hull City,2,1,Queens Park Rangers,Steve Bruce,Chris Ramsey,Saturday
+1,1,2015-02-21,Etihad Stadium,Manchester City,5,0,Newcastle United,Manuel Pellegrini,John Carver,Saturday
+-1,-1,2015-02-22,St Mary's Stadium,Southampton,0,2,Liverpool,Ronald Koeman,Brendan Rodgers,Sunday
+0,0,2015-02-21,Stadium of Light,Sunderland,0,0,West Bromwich Albion,Gus Poyet,Tony Pulis,Saturday
+1,1,2015-02-21,Swansea.com Stadium,Swansea City,2,1,Manchester United,Garry Monk,Louis van Gaal,Saturday
+0,1,2015-02-22,White Hart Lane,Tottenham Hotspur,2,2,West Ham United,Mauricio Pochettino,Sam Allardyce,Sunday
+1,1,2015-03-01,Emirates Stadium,Arsenal,2,0,Everton,Arsène Wenger,Roberto Martínez,Sunday
+-1,-1,2015-02-28,Turf Moor,Burnley,0,1,Swansea City,Sean Dyche,Garry Monk,Saturday
+-1,-1,2015-04-29,King Power Stadium,Leicester City,1,3,Chelsea,Nigel Pearson,José Mourinho,Wednesday
+1,1,2015-03-01,Anfield,Liverpool,2,1,Manchester City,Brendan Rodgers,Manuel Pellegrini,Sunday
+1,1,2015-02-28,Old Trafford,Manchester United,2,0,Sunderland,Louis van Gaal,Gus Poyet,Saturday
+1,1,2015-02-28,St James' Park,Newcastle United,1,0,Aston Villa,John Carver,Tim Sherwood,Saturday
+-1,-1,2015-03-07,Loftus Road,Queens Park Rangers,1,2,Tottenham Hotspur,Chris Ramsey,Mauricio Pochettino,Saturday
+1,1,2015-02-28,bet365 Stadium,Stoke City,1,0,Hull City,Mark Hughes,Steve Bruce,Saturday
+1,1,2015-02-28,The Hawthorns,West Bromwich Albion,1,0,Southampton,Tony Pulis,Ronald Koeman,Saturday
+-1,-1,2015-02-28,Upton Park,West Ham United,1,3,Crystal Palace,Sam Allardyce,Alan Pardew,Saturday
+1,1,2015-03-03,Villa Park,Aston Villa,2,1,West Bromwich Albion,Tim Sherwood,Tony Pulis,Tuesday
+0,0,2015-03-03,MKM Stadium,Hull City,1,1,Sunderland,Steve Bruce,Gus Poyet,Tuesday
+-1,-1,2015-03-04,Loftus Road,Queens Park Rangers,1,2,Arsenal,Chris Ramsey,Arsène Wenger,Wednesday
+1,1,2015-03-03,St Mary's Stadium,Southampton,1,0,Crystal Palace,Ronald Koeman,Alan Pardew,Tuesday
+-1,-1,2015-03-04,Upton Park,West Ham United,0,1,Chelsea,Sam Allardyce,José Mourinho,Wednesday
+1,1,2015-03-04,Anfield,Liverpool,2,0,Burnley,Brendan Rodgers,Sean Dyche,Wednesday
+1,1,2015-03-04,Etihad Stadium,Manchester City,2,0,Leicester City,Manuel Pellegrini,Nigel Pearson,Wednesday
+-1,-1,2015-03-04,St James' Park,Newcastle United,0,1,Manchester United,John Carver,Louis van Gaal,Wednesday
+1,1,2015-03-04,bet365 Stadium,Stoke City,2,0,Everton,Mark Hughes,Roberto Martínez,Wednesday
+1,1,2015-03-04,White Hart Lane,Tottenham Hotspur,3,2,Swansea City,Mauricio Pochettino,Garry Monk,Wednesday
+1,1,2015-03-14,Emirates Stadium,Arsenal,3,0,West Ham United,Arsène Wenger,Sam Allardyce,Saturday
+1,-1,2015-03-14,Turf Moor,Burnley,1,0,Manchester City,Sean Dyche,Manuel Pellegrini,Saturday
+0,1,2015-03-15,Stamford Bridge,Chelsea,1,1,Southampton,José Mourinho,Ronald Koeman,Sunday
+1,1,2015-03-14,Selhurst Park,Crystal Palace,3,1,Queens Park Rangers,Alan Pardew,Chris Ramsey,Saturday
+1,1,2015-03-15,Goodison Park,Everton,3,0,Newcastle United,Roberto Martínez,John Carver,Sunday
+0,0,2015-03-14,King Power Stadium,Leicester City,0,0,Hull City,Nigel Pearson,Steve Bruce,Saturday
+1,1,2015-03-15,Old Trafford,Manchester United,3,0,Tottenham Hotspur,Louis van Gaal,Mauricio Pochettino,Sunday
+-1,-1,2015-03-14,Stadium of Light,Sunderland,0,4,Aston Villa,Gus Poyet,Tim Sherwood,Saturday
+-1,-1,2015-03-16,Swansea.com Stadium,Swansea City,0,1,Liverpool,Garry Monk,Brendan Rodgers,Monday
+1,1,2015-03-14,The Hawthorns,West Bromwich Albion,1,0,Stoke City,Tony Pulis,Mark Hughes,Saturday
+1,1,2014-08-31,Villa Park,Aston Villa,2,1,Hull City,Paul Lambert,Steve Bruce,Sunday
+0,0,2014-08-30,Turf Moor,Burnley,0,0,Manchester United,Sean Dyche,Louis van Gaal,Saturday
+-1,-1,2014-08-30,Goodison Park,Everton,3,6,Chelsea,Roberto Martínez,José Mourinho,Saturday
+0,0,2014-08-31,King Power Stadium,Leicester City,1,1,Arsenal,Nigel Pearson,Arsène Wenger,Sunday
+-1,1,2014-08-30,Etihad Stadium,Manchester City,0,1,Stoke City,Manuel Pellegrini,Mark Hughes,Saturday
+0,0,2014-08-30,St James' Park,Newcastle United,3,3,Crystal Palace,Alan Pardew,Neil Warnock,Saturday
+1,1,2014-08-30,Loftus Road,Queens Park Rangers,1,0,Sunderland,Harry Redknapp,Gus Poyet,Saturday
+1,1,2014-08-30,Swansea.com Stadium,Swansea City,3,0,West Bromwich Albion,Garry Monk,Alan Irvine,Saturday
+-1,1,2014-08-31,White Hart Lane,Tottenham Hotspur,0,3,Liverpool,Mauricio Pochettino,Brendan Rodgers,Sunday
+-1,-1,2014-08-30,Upton Park,West Ham United,1,3,Southampton,Sam Allardyce,Ronald Koeman,Saturday
+-1,-1,2015-03-21,Villa Park,Aston Villa,0,1,Swansea City,Tim Sherwood,Garry Monk,Saturday
+-1,-1,2015-03-22,MKM Stadium,Hull City,2,3,Chelsea,Steve Bruce,José Mourinho,Sunday
+-1,1,2015-03-22,Anfield,Liverpool,1,2,Manchester United,Brendan Rodgers,Louis van Gaal,Sunday
+1,1,2015-03-21,Etihad Stadium,Manchester City,3,0,West Bromwich Albion,Manuel Pellegrini,Tony Pulis,Saturday
+-1,-1,2015-03-21,St James' Park,Newcastle United,1,2,Arsenal,John Carver,Arsène Wenger,Saturday
+-1,-1,2015-03-22,Loftus Road,Queens Park Rangers,1,2,Everton,Chris Ramsey,Roberto Martínez,Sunday
+1,1,2015-03-21,St Mary's Stadium,Southampton,2,0,Burnley,Ronald Koeman,Sean Dyche,Saturday
+-1,-1,2015-03-21,bet365 Stadium,Stoke City,1,2,Crystal Palace,Mark Hughes,Alan Pardew,Saturday
+1,1,2015-03-21,White Hart Lane,Tottenham Hotspur,4,3,Leicester City,Mauricio Pochettino,Nigel Pearson,Saturday
+1,1,2015-03-21,Upton Park,West Ham United,1,0,Sunderland,Sam Allardyce,Dick Advocaat,Saturday
+1,1,2015-04-04,Emirates Stadium,Arsenal,4,1,Liverpool,Arsène Wenger,Brendan Rodgers,Saturday
+0,0,2015-04-05,Turf Moor,Burnley,0,0,Tottenham Hotspur,Sean Dyche,Mauricio Pochettino,Sunday
+1,1,2015-04-04,Stamford Bridge,Chelsea,2,1,Stoke City,José Mourinho,Mark Hughes,Saturday
+1,1,2015-04-06,Selhurst Park,Crystal Palace,2,1,Manchester City,Alan Pardew,Manuel Pellegrini,Monday
+1,1,2015-04-04,Goodison Park,Everton,1,0,Southampton,Roberto Martínez,Ronald Koeman,Saturday
+1,1,2015-04-04,King Power Stadium,Leicester City,2,1,West Ham United,Nigel Pearson,Sam Allardyce,Saturday
+1,1,2015-04-04,Old Trafford,Manchester United,3,1,Aston Villa,Louis van Gaal,Tim Sherwood,Saturday
+1,1,2015-04-05,Stadium of Light,Sunderland,1,0,Newcastle United,Dick Advocaat,John Carver,Sunday
+1,1,2015-04-04,Swansea.com Stadium,Swansea City,3,1,Hull City,Garry Monk,Steve Bruce,Saturday
+-1,-1,2015-04-04,The Hawthorns,West Bromwich Albion,1,4,Queens Park Rangers,Tony Pulis,Chris Ramsey,Saturday
+-1,-1,2015-04-11,Turf Moor,Burnley,0,1,Arsenal,Sean Dyche,Arsène Wenger,Saturday
+1,1,2015-04-13,Anfield,Liverpool,2,0,Newcastle United,Brendan Rodgers,John Carver,Monday
+1,1,2015-04-12,Old Trafford,Manchester United,4,2,Manchester City,Louis van Gaal,Manuel Pellegrini,Sunday
+-1,-1,2015-04-12,Loftus Road,Queens Park Rangers,0,1,Chelsea,Chris Ramsey,José Mourinho,Sunday
+1,1,2015-04-11,St Mary's Stadium,Southampton,2,0,Hull City,Ronald Koeman,Steve Bruce,Saturday
+-1,-1,2015-04-11,Stadium of Light,Sunderland,1,4,Crystal Palace,Dick Advocaat,Alan Pardew,Saturday
+0,0,2015-04-11,Swansea.com Stadium,Swansea City,1,1,Everton,Garry Monk,Roberto Martínez,Saturday
+-1,1,2015-04-11,White Hart Lane,Tottenham Hotspur,0,1,Aston Villa,Mauricio Pochettino,Tim Sherwood,Saturday
+-1,1,2015-04-11,The Hawthorns,West Bromwich Albion,2,3,Leicester City,Tony Pulis,Nigel Pearson,Saturday
+0,0,2015-04-11,Upton Park,West Ham United,1,1,Stoke City,Sam Allardyce,Mark Hughes,Saturday
+0,0,2015-05-20,Emirates Stadium,Arsenal,0,0,Sunderland,Arsène Wenger,Dick Advocaat,Wednesday
+0,0,2015-04-07,Villa Park,Aston Villa,3,3,Queens Park Rangers,Tim Sherwood,Chris Ramsey,Tuesday
+1,1,2015-04-18,Stamford Bridge,Chelsea,1,0,Manchester United,José Mourinho,Louis van Gaal,Saturday
+-1,-1,2015-04-18,Selhurst Park,Crystal Palace,0,2,West Bromwich Albion,Alan Pardew,Tony Pulis,Saturday
+1,1,2015-04-18,Goodison Park,Everton,1,0,Burnley,Roberto Martínez,Sean Dyche,Saturday
+1,1,2015-04-28,MKM Stadium,Hull City,1,0,Liverpool,Steve Bruce,Brendan Rodgers,Tuesday
+1,1,2015-04-18,King Power Stadium,Leicester City,2,0,Swansea City,Nigel Pearson,Garry Monk,Saturday
+1,1,2015-04-19,Etihad Stadium,Manchester City,2,0,West Ham United,Manuel Pellegrini,Sam Allardyce,Sunday
+-1,-1,2015-04-19,St James' Park,Newcastle United,1,3,Tottenham Hotspur,John Carver,Mauricio Pochettino,Sunday
+1,1,2015-04-18,bet365 Stadium,Stoke City,2,1,Southampton,Mark Hughes,Ronald Koeman,Saturday
+0,0,2015-04-26,Emirates Stadium,Arsenal,0,0,Chelsea,Arsène Wenger,José Mourinho,Sunday
+-1,-1,2015-04-25,Turf Moor,Burnley,0,1,Leicester City,Sean Dyche,Nigel Pearson,Saturday
+-1,-1,2015-04-25,Selhurst Park,Crystal Palace,0,2,Hull City,Alan Pardew,Steve Bruce,Saturday
+1,1,2015-04-26,Goodison Park,Everton,3,0,Manchester United,Roberto Martínez,Louis van Gaal,Sunday
+1,1,2015-04-25,Etihad Stadium,Manchester City,3,2,Aston Villa,Manuel Pellegrini,Tim Sherwood,Saturday
+-1,-1,2015-04-25,St James' Park,Newcastle United,2,3,Swansea City,John Carver,Garry Monk,Saturday
+0,1,2015-04-25,Loftus Road,Queens Park Rangers,0,0,West Ham United,Chris Ramsey,Sam Allardyce,Saturday
+0,0,2015-04-25,St Mary's Stadium,Southampton,2,2,Tottenham Hotspur,Ronald Koeman,Mauricio Pochettino,Saturday
+0,0,2015-04-25,bet365 Stadium,Stoke City,1,1,Sunderland,Mark Hughes,Dick Advocaat,Saturday
+0,1,2015-04-25,The Hawthorns,West Bromwich Albion,0,0,Liverpool,Tony Pulis,Brendan Rodgers,Saturday
+1,1,2015-05-02,Villa Park,Aston Villa,3,2,Everton,Tim Sherwood,Roberto Martínez,Saturday
+1,1,2015-05-03,Stamford Bridge,Chelsea,1,0,Crystal Palace,José Mourinho,Alan Pardew,Sunday
+-1,-1,2015-05-04,MKM Stadium,Hull City,1,3,Arsenal,Steve Bruce,Arsène Wenger,Monday
+1,1,2015-05-02,King Power Stadium,Leicester City,3,0,Newcastle United,Nigel Pearson,John Carver,Saturday
+1,1,2015-05-02,Anfield,Liverpool,2,1,Queens Park Rangers,Brendan Rodgers,Chris Ramsey,Saturday
+-1,1,2015-05-02,Old Trafford,Manchester United,0,1,West Bromwich Albion,Louis van Gaal,Tony Pulis,Saturday
+1,1,2015-05-02,Stadium of Light,Sunderland,2,1,Southampton,Dick Advocaat,Ronald Koeman,Saturday
+1,1,2015-05-02,Swansea.com Stadium,Swansea City,2,0,Stoke City,Garry Monk,Mark Hughes,Saturday
+-1,1,2015-05-03,White Hart Lane,Tottenham Hotspur,0,1,Manchester City,Mauricio Pochettino,Manuel Pellegrini,Sunday
+1,1,2015-05-02,Upton Park,West Ham United,1,0,Burnley,Sam Allardyce,Sean Dyche,Saturday
+-1,1,2015-05-11,Emirates Stadium,Arsenal,0,1,Swansea City,Arsène Wenger,Garry Monk,Monday
+1,1,2015-05-09,Villa Park,Aston Villa,1,0,West Ham United,Tim Sherwood,Sam Allardyce,Saturday
+0,1,2015-05-10,Stamford Bridge,Chelsea,1,1,Liverpool,José Mourinho,Brendan Rodgers,Sunday
+-1,-1,2015-05-09,Selhurst Park,Crystal Palace,1,2,Manchester United,Alan Pardew,Louis van Gaal,Saturday
+-1,-1,2015-05-09,Goodison Park,Everton,0,2,Sunderland,Roberto Martínez,Dick Advocaat,Saturday
+-1,1,2015-05-09,MKM Stadium,Hull City,0,1,Burnley,Steve Bruce,Sean Dyche,Saturday
+1,1,2015-05-09,King Power Stadium,Leicester City,2,0,Southampton,Nigel Pearson,Ronald Koeman,Saturday
+1,1,2015-05-10,Etihad Stadium,Manchester City,6,0,Queens Park Rangers,Manuel Pellegrini,Chris Ramsey,Sunday
+0,0,2015-05-09,St James' Park,Newcastle United,1,1,West Bromwich Albion,John Carver,Tony Pulis,Saturday
+1,1,2015-05-09,bet365 Stadium,Stoke City,3,0,Tottenham Hotspur,Mark Hughes,Mauricio Pochettino,Saturday
+0,0,2015-05-16,Turf Moor,Burnley,0,0,Stoke City,Sean Dyche,Mark Hughes,Saturday
+-1,1,2015-05-16,Anfield,Liverpool,1,3,Crystal Palace,Brendan Rodgers,Alan Pardew,Saturday
+0,1,2015-05-17,Old Trafford,Manchester United,1,1,Arsenal,Louis van Gaal,Arsène Wenger,Sunday
+1,1,2015-05-16,Loftus Road,Queens Park Rangers,2,1,Newcastle United,Chris Ramsey,John Carver,Saturday
+1,1,2015-05-16,St Mary's Stadium,Southampton,6,1,Aston Villa,Ronald Koeman,Tim Sherwood,Saturday
+0,0,2015-05-16,Stadium of Light,Sunderland,0,0,Leicester City,Dick Advocaat,Nigel Pearson,Saturday
+-1,-1,2015-05-17,Swansea.com Stadium,Swansea City,2,4,Manchester City,Garry Monk,Manuel Pellegrini,Sunday
+1,1,2015-05-16,White Hart Lane,Tottenham Hotspur,2,0,Hull City,Mauricio Pochettino,Steve Bruce,Saturday
+1,1,2015-05-18,The Hawthorns,West Bromwich Albion,3,0,Chelsea,Tony Pulis,José Mourinho,Monday
+-1,-1,2015-05-16,Upton Park,West Ham United,1,2,Everton,Sam Allardyce,Roberto Martínez,Saturday
+1,1,2015-05-24,Emirates Stadium,Arsenal,4,1,West Bromwich Albion,Arsène Wenger,Tony Pulis,Sunday
+-1,1,2015-05-24,Villa Park,Aston Villa,0,1,Burnley,Tim Sherwood,Sean Dyche,Sunday
+1,1,2015-05-24,Stamford Bridge,Chelsea,3,1,Sunderland,José Mourinho,Dick Advocaat,Sunday
+1,1,2015-05-24,Selhurst Park,Crystal Palace,1,0,Swansea City,Alan Pardew,Garry Monk,Sunday
+-1,1,2015-05-24,Goodison Park,Everton,0,1,Tottenham Hotspur,Roberto Martínez,Mauricio Pochettino,Sunday
+0,-1,2015-05-24,MKM Stadium,Hull City,0,0,Manchester United,Steve Bruce,Louis van Gaal,Sunday
+1,1,2015-05-24,King Power Stadium,Leicester City,5,1,Queens Park Rangers,Nigel Pearson,Chris Ramsey,Sunday
+1,1,2015-05-24,Etihad Stadium,Manchester City,2,0,Southampton,Manuel Pellegrini,Ronald Koeman,Sunday
+1,1,2015-05-24,St James' Park,Newcastle United,2,0,West Ham United,John Carver,Sam Allardyce,Sunday
+1,1,2015-05-24,bet365 Stadium,Stoke City,6,1,Liverpool,Mark Hughes,Brendan Rodgers,Sunday
+0,0,2014-09-13,Emirates Stadium,Arsenal,2,2,Manchester City,Arsène Wenger,Manuel Pellegrini,Saturday
+1,1,2014-09-13,Stamford Bridge,Chelsea,4,2,Swansea City,José Mourinho,Garry Monk,Saturday
+0,1,2014-09-13,Selhurst Park,Crystal Palace,0,0,Burnley,Neil Warnock,Sean Dyche,Saturday
+0,0,2014-09-15,MKM Stadium,Hull City,2,2,West Ham United,Steve Bruce,Sam Allardyce,Monday
+-1,-1,2014-09-13,Anfield,Liverpool,0,1,Aston Villa,Brendan Rodgers,Paul Lambert,Saturday
+1,1,2014-09-14,Old Trafford,Manchester United,4,0,Queens Park Rangers,Louis van Gaal,Harry Redknapp,Sunday
+1,1,2014-09-13,St Mary's Stadium,Southampton,4,0,Newcastle United,Ronald Koeman,Alan Pardew,Saturday
+-1,-1,2014-09-13,bet365 Stadium,Stoke City,0,1,Leicester City,Mark Hughes,Nigel Pearson,Saturday
+0,0,2014-09-13,Stadium of Light,Sunderland,2,2,Tottenham Hotspur,Gus Poyet,Mauricio Pochettino,Saturday
+-1,-1,2014-09-13,The Hawthorns,West Bromwich Albion,0,2,Everton,Alan Irvine,Roberto Martínez,Saturday
+-1,-1,2014-09-20,Villa Park,Aston Villa,0,3,Arsenal,Paul Lambert,Arsène Wenger,Saturday
+0,0,2014-09-20,Turf Moor,Burnley,0,0,Sunderland,Sean Dyche,Gus Poyet,Saturday
+-1,-1,2014-09-21,Goodison Park,Everton,2,3,Crystal Palace,Roberto Martínez,Neil Warnock,Sunday
+1,1,2014-09-21,King Power Stadium,Leicester City,5,3,Manchester United,Nigel Pearson,Louis van Gaal,Sunday
+0,0,2014-09-21,Etihad Stadium,Manchester City,1,1,Chelsea,Manuel Pellegrini,José Mourinho,Sunday
+0,0,2014-09-20,St James' Park,Newcastle United,2,2,Hull City,Alan Pardew,Steve Bruce,Saturday
+0,0,2014-09-20,Loftus Road,Queens Park Rangers,2,2,Stoke City,Harry Redknapp,Mark Hughes,Saturday
+-1,-1,2014-09-20,Swansea.com Stadium,Swansea City,0,1,Southampton,Garry Monk,Ronald Koeman,Saturday
+-1,-1,2014-09-21,White Hart Lane,Tottenham Hotspur,0,1,West Bromwich Albion,Mauricio Pochettino,Alan Irvine,Sunday
+1,1,2014-09-20,Upton Park,West Ham United,3,1,Liverpool,Sam Allardyce,Brendan Rodgers,Saturday
+0,1,2014-09-27,Emirates Stadium,Arsenal,1,1,Tottenham Hotspur,Arsène Wenger,Mauricio Pochettino,Saturday
+1,1,2014-09-27,Stamford Bridge,Chelsea,3,0,Aston Villa,José Mourinho,Paul Lambert,Saturday
+1,1,2014-09-27,Selhurst Park,Crystal Palace,2,0,Leicester City,Neil Warnock,Nigel Pearson,Saturday
+-1,-1,2014-09-27,MKM Stadium,Hull City,2,4,Manchester City,Steve Bruce,Manuel Pellegrini,Saturday
+0,0,2014-09-27,Anfield,Liverpool,1,1,Everton,Brendan Rodgers,Roberto Martínez,Saturday
+1,1,2014-09-27,Old Trafford,Manchester United,2,1,West Ham United,Louis van Gaal,Sam Allardyce,Saturday
+1,1,2014-09-27,St Mary's Stadium,Southampton,2,1,Queens Park Rangers,Ronald Koeman,Harry Redknapp,Saturday
+1,1,2014-09-29,bet365 Stadium,Stoke City,1,0,Newcastle United,Mark Hughes,Alan Pardew,Monday
+0,0,2014-09-27,Stadium of Light,Sunderland,0,0,Swansea City,Gus Poyet,Garry Monk,Saturday
+1,1,2014-09-28,The Hawthorns,West Bromwich Albion,4,0,Burnley,Alan Irvine,Sean Dyche,Sunday
+-1,-1,2014-10-04,Villa Park,Aston Villa,0,2,Manchester City,Paul Lambert,Manuel Pellegrini,Saturday
+1,1,2014-10-05,Stamford Bridge,Chelsea,2,0,Arsenal,José Mourinho,Arsène Wenger,Sunday
+1,1,2014-10-04,MKM Stadium,Hull City,2,0,Crystal Palace,Steve Bruce,Neil Warnock,Saturday
+0,0,2014-10-04,King Power Stadium,Leicester City,2,2,Burnley,Nigel Pearson,Sean Dyche,Saturday
+1,1,2014-10-04,Anfield,Liverpool,2,1,West Bromwich Albion,Brendan Rodgers,Alan Irvine,Saturday
+1,1,2014-10-05,Old Trafford,Manchester United,2,1,Everton,Louis van Gaal,Roberto Martínez,Sunday
+1,0,2014-10-04,Stadium of Light,Sunderland,3,1,Stoke City,Gus Poyet,Mark Hughes,Saturday
+0,0,2014-10-04,Swansea.com Stadium,Swansea City,2,2,Newcastle United,Garry Monk,Alan Pardew,Saturday
+1,1,2014-10-05,White Hart Lane,Tottenham Hotspur,1,0,Southampton,Mauricio Pochettino,Ronald Koeman,Sunday
+1,1,2014-10-05,Upton Park,West Ham United,2,0,Queens Park Rangers,Sam Allardyce,Harry Redknapp,Sunday
+0,1,2014-10-18,Emirates Stadium,Arsenal,2,2,Hull City,Arsène Wenger,Steve Bruce,Saturday
+-1,-1,2014-10-18,Turf Moor,Burnley,1,3,West Ham United,Sean Dyche,Sam Allardyce,Saturday
+-1,-1,2014-10-18,Selhurst Park,Crystal Palace,1,2,Chelsea,Neil Warnock,José Mourinho,Saturday
+1,1,2014-10-18,Goodison Park,Everton,3,0,Aston Villa,Roberto Martínez,Paul Lambert,Saturday
+1,1,2014-10-18,Etihad Stadium,Manchester City,4,1,Tottenham Hotspur,Manuel Pellegrini,Mauricio Pochettino,Saturday
+1,1,2014-10-18,St James' Park,Newcastle United,1,0,Leicester City,Alan Pardew,Nigel Pearson,Saturday
+-1,-1,2014-10-19,Loftus Road,Queens Park Rangers,2,3,Liverpool,Harry Redknapp,Brendan Rodgers,Sunday
+1,1,2014-10-18,St Mary's Stadium,Southampton,8,0,Sunderland,Ronald Koeman,Gus Poyet,Saturday
+1,1,2014-10-19,bet365 Stadium,Stoke City,2,1,Swansea City,Mark Hughes,Garry Monk,Sunday
+0,0,2014-10-20,The Hawthorns,West Bromwich Albion,2,2,Manchester United,Alan Irvine,Louis van Gaal,Monday
+-1,-1,2014-10-26,Turf Moor,Burnley,1,3,Everton,Sean Dyche,Roberto Martínez,Sunday
+0,1,2014-10-25,Anfield,Liverpool,0,0,Hull City,Brendan Rodgers,Steve Bruce,Saturday
+0,0,2014-10-26,Old Trafford,Manchester United,1,1,Chelsea,Louis van Gaal,José Mourinho,Sunday
+1,1,2014-10-27,Loftus Road,Queens Park Rangers,2,0,Aston Villa,Harry Redknapp,Paul Lambert,Monday
+1,1,2014-10-25,St Mary's Stadium,Southampton,1,0,Stoke City,Ronald Koeman,Mark Hughes,Saturday
+-1,-1,2014-10-25,Stadium of Light,Sunderland,0,2,Arsenal,Gus Poyet,Arsène Wenger,Saturday
+1,1,2014-10-25,Swansea.com Stadium,Swansea City,2,0,Leicester City,Garry Monk,Nigel Pearson,Saturday
+-1,-1,2014-10-26,White Hart Lane,Tottenham Hotspur,1,2,Newcastle United,Mauricio Pochettino,Alan Pardew,Sunday
+0,0,2014-10-25,The Hawthorns,West Bromwich Albion,2,2,Crystal Palace,Alan Irvine,Neil Warnock,Saturday
+1,1,2014-10-25,Upton Park,West Ham United,2,1,Manchester City,Sam Allardyce,Manuel Pellegrini,Saturday
+-1,-1,2015-08-09,Emirates Stadium,Arsenal,0,2,West Ham United,Arsène Wenger,Slaven Bilić,Sunday
+-1,-1,2015-08-08,Vitality Stadium,Bournemouth,0,1,Aston Villa,Eddie Howe,Tim Sherwood,Saturday
+0,1,2015-08-08,Stamford Bridge,Chelsea,2,2,Swansea City,José Mourinho,Garry Monk,Saturday
+0,0,2015-08-08,Goodison Park,Everton,2,2,Watford,Roberto Martínez,Quique Sánchez Flores,Saturday
+1,1,2015-08-08,King Power Stadium,Leicester City,4,2,Sunderland,Claudio Ranieri,Dick Advocaat,Saturday
+1,1,2015-08-08,Old Trafford,Manchester United,1,0,Tottenham Hotspur,Louis van Gaal,Mauricio Pochettino,Saturday
+0,0,2015-08-09,St James' Park,Newcastle United,2,2,Southampton,Steve McClaren,Ronald Koeman,Sunday
+-1,-1,2015-08-08,Carrow Road,Norwich City,1,3,Crystal Palace,Alex Neil,Alan Pardew,Saturday
+-1,-1,2015-08-09,bet365 Stadium,Stoke City,0,1,Liverpool,Mark Hughes,Brendan Rodgers,Sunday
+-1,-1,2015-08-10,The Hawthorns,West Bromwich Albion,0,3,Manchester City,Tony Pulis,Manuel Pellegrini,Monday
+1,1,2015-10-24,Emirates Stadium,Arsenal,2,1,Everton,Arsène Wenger,Roberto Martínez,Saturday
+-1,-1,2015-10-24,Villa Park,Aston Villa,1,2,Swansea City,Tim Sherwood,Garry Monk,Saturday
+-1,-1,2015-10-25,Vitality Stadium,Bournemouth,1,5,Tottenham Hotspur,Eddie Howe,Mauricio Pochettino,Sunday
+1,1,2015-10-24,King Power Stadium,Leicester City,1,0,Crystal Palace,Claudio Ranieri,Alan Pardew,Saturday
+0,0,2015-10-25,Anfield,Liverpool,1,1,Southampton,Jürgen Klopp,Ronald Koeman,Sunday
+0,0,2015-10-25,Old Trafford,Manchester United,0,0,Manchester City,Louis van Gaal,Manuel Pellegrini,Sunday
+-1,-1,2015-10-24,Carrow Road,Norwich City,0,1,West Bromwich Albion,Alex Neil,Tony Pulis,Saturday
+-1,-1,2015-10-24,bet365 Stadium,Stoke City,0,2,Watford,Mark Hughes,Quique Sánchez Flores,Saturday
+1,1,2015-10-25,Stadium of Light,Sunderland,3,0,Newcastle United,Sam Allardyce,Steve McClaren,Sunday
+1,1,2015-10-24,Upton Park,West Ham United,2,1,Chelsea,Slaven Bilić,José Mourinho,Saturday
+-1,1,2015-10-31,Stamford Bridge,Chelsea,1,3,Liverpool,José Mourinho,Jürgen Klopp,Saturday
+0,-1,2015-10-31,Selhurst Park,Crystal Palace,0,0,Manchester United,Alan Pardew,Louis van Gaal,Saturday
+1,1,2015-11-01,Goodison Park,Everton,6,2,Sunderland,Roberto Martínez,Sam Allardyce,Sunday
+1,1,2015-10-31,Etihad Stadium,Manchester City,2,1,Norwich City,Manuel Pellegrini,Alex Neil,Saturday
+0,0,2015-10-31,St James' Park,Newcastle United,0,0,Stoke City,Steve McClaren,Mark Hughes,Saturday
+1,1,2015-11-01,St Mary's Stadium,Southampton,2,0,Bournemouth,Ronald Koeman,Eddie Howe,Sunday
+-1,-1,2015-10-31,Swansea.com Stadium,Swansea City,0,3,Arsenal,Garry Monk,Arsène Wenger,Saturday
+1,1,2015-11-02,White Hart Lane,Tottenham Hotspur,3,1,Aston Villa,Mauricio Pochettino,Rémi Garde,Monday
+1,1,2015-10-31,Vicarage Road,Watford,2,0,West Ham United,Quique Sánchez Flores,Slaven Bilić,Saturday
+-1,-1,2015-10-31,The Hawthorns,West Bromwich Albion,2,3,Leicester City,Tony Pulis,Claudio Ranieri,Saturday
+0,1,2015-11-08,Emirates Stadium,Arsenal,1,1,Tottenham Hotspur,Arsène Wenger,Mauricio Pochettino,Sunday
+0,0,2015-11-08,Villa Park,Aston Villa,0,0,Manchester City,Rémi Garde,Manuel Pellegrini,Sunday
+-1,-1,2015-11-07,Vitality Stadium,Bournemouth,0,1,Newcastle United,Eddie Howe,Steve McClaren,Saturday
+1,1,2015-11-07,King Power Stadium,Leicester City,2,1,Watford,Claudio Ranieri,Quique Sánchez Flores,Saturday
+-1,1,2015-11-08,Anfield,Liverpool,1,2,Crystal Palace,Jürgen Klopp,Alan Pardew,Sunday
+1,1,2015-11-07,Old Trafford,Manchester United,2,0,West Bromwich Albion,Louis van Gaal,Tony Pulis,Saturday
+1,1,2015-11-07,Carrow Road,Norwich City,1,0,Swansea City,Alex Neil,Garry Monk,Saturday
+1,1,2015-11-07,bet365 Stadium,Stoke City,1,0,Chelsea,Mark Hughes,José Mourinho,Saturday
+-1,-1,2015-11-07,Stadium of Light,Sunderland,0,1,Southampton,Sam Allardyce,Ronald Koeman,Saturday
+0,1,2015-11-07,Upton Park,West Ham United,1,1,Everton,Slaven Bilić,Roberto Martínez,Saturday
+1,1,2015-11-21,Stamford Bridge,Chelsea,1,0,Norwich City,José Mourinho,Alex Neil,Saturday
+-1,-1,2015-11-23,Selhurst Park,Crystal Palace,0,1,Sunderland,Alan Pardew,Sam Allardyce,Monday
+1,1,2015-11-21,Goodison Park,Everton,4,0,Aston Villa,Roberto Martínez,Rémi Garde,Saturday
+-1,1,2015-11-21,Etihad Stadium,Manchester City,1,4,Liverpool,Manuel Pellegrini,Jürgen Klopp,Saturday
+-1,-1,2015-11-21,St James' Park,Newcastle United,0,3,Leicester City,Steve McClaren,Claudio Ranieri,Saturday
+-1,-1,2015-11-21,St Mary's Stadium,Southampton,0,1,Stoke City,Ronald Koeman,Mark Hughes,Saturday
+0,0,2015-11-21,Swansea.com Stadium,Swansea City,2,2,Bournemouth,Garry Monk,Eddie Howe,Saturday
+1,1,2015-11-22,White Hart Lane,Tottenham Hotspur,4,1,West Ham United,Mauricio Pochettino,Slaven Bilić,Sunday
+-1,-1,2015-11-21,Vicarage Road,Watford,1,2,Manchester United,Quique Sánchez Flores,Louis van Gaal,Saturday
+1,-1,2015-11-21,The Hawthorns,West Bromwich Albion,2,1,Arsenal,Tony Pulis,Arsène Wenger,Saturday
+-1,-1,2015-11-28,Villa Park,Aston Villa,2,3,Watford,Rémi Garde,Quique Sánchez Flores,Saturday
+0,0,2015-11-28,Vitality Stadium,Bournemouth,3,3,Everton,Eddie Howe,Roberto Martínez,Saturday
+1,1,2015-11-28,Selhurst Park,Crystal Palace,5,1,Newcastle United,Alan Pardew,Steve McClaren,Saturday
+0,0,2015-11-28,King Power Stadium,Leicester City,1,1,Manchester United,Claudio Ranieri,Louis van Gaal,Saturday
+1,1,2015-11-29,Anfield,Liverpool,1,0,Swansea City,Jürgen Klopp,Garry Monk,Sunday
+1,1,2015-11-28,Etihad Stadium,Manchester City,3,1,Southampton,Manuel Pellegrini,Ronald Koeman,Saturday
+0,0,2015-11-29,Carrow Road,Norwich City,1,1,Arsenal,Alex Neil,Arsène Wenger,Sunday
+1,1,2015-11-28,Stadium of Light,Sunderland,2,0,Stoke City,Sam Allardyce,Mark Hughes,Saturday
+0,0,2015-11-29,White Hart Lane,Tottenham Hotspur,0,0,Chelsea,Mauricio Pochettino,José Mourinho,Sunday
+0,0,2015-11-29,Upton Park,West Ham United,1,1,West Bromwich Albion,Slaven Bilić,Tony Pulis,Sunday
+1,1,2015-12-05,Emirates Stadium,Arsenal,3,1,Sunderland,Arsène Wenger,Sam Allardyce,Saturday
+-1,1,2015-12-05,Stamford Bridge,Chelsea,0,1,Bournemouth,José Mourinho,Eddie Howe,Saturday
+0,0,2015-12-07,Goodison Park,Everton,1,1,Crystal Palace,Roberto Martínez,Alan Pardew,Monday
+0,1,2015-12-05,Old Trafford,Manchester United,0,0,West Ham United,Louis van Gaal,Slaven Bilić,Saturday
+1,1,2015-12-06,St James' Park,Newcastle United,2,0,Liverpool,Steve McClaren,Jürgen Klopp,Sunday
+0,0,2015-12-05,St Mary's Stadium,Southampton,1,1,Aston Villa,Ronald Koeman,Rémi Garde,Saturday
+1,1,2015-12-05,bet365 Stadium,Stoke City,2,0,Manchester City,Mark Hughes,Manuel Pellegrini,Saturday
+-1,-1,2015-12-05,Swansea.com Stadium,Swansea City,0,3,Leicester City,Garry Monk,Claudio Ranieri,Saturday
+1,1,2015-12-05,Vicarage Road,Watford,2,0,Norwich City,Quique Sánchez Flores,Alex Neil,Saturday
+0,0,2015-12-05,The Hawthorns,West Bromwich Albion,1,1,Tottenham Hotspur,Tony Pulis,Mauricio Pochettino,Saturday
+-1,-1,2015-12-13,Villa Park,Aston Villa,0,2,Arsenal,Rémi Garde,Arsène Wenger,Sunday
+1,1,2015-12-12,Vitality Stadium,Bournemouth,2,1,Manchester United,Eddie Howe,Louis van Gaal,Saturday
+1,1,2015-12-12,Selhurst Park,Crystal Palace,1,0,Southampton,Alan Pardew,Ronald Koeman,Saturday
+1,1,2015-12-14,King Power Stadium,Leicester City,2,1,Chelsea,Claudio Ranieri,José Mourinho,Monday
+0,0,2015-12-13,Anfield,Liverpool,2,2,West Bromwich Albion,Jürgen Klopp,Tony Pulis,Sunday
+1,1,2015-12-12,Etihad Stadium,Manchester City,2,1,Swansea City,Manuel Pellegrini,Garry Monk,Saturday
+0,0,2015-12-12,Carrow Road,Norwich City,1,1,Everton,Alex Neil,Roberto Martínez,Saturday
+-1,1,2015-12-12,Stadium of Light,Sunderland,0,1,Watford,Sam Allardyce,Quique Sánchez Flores,Saturday
+-1,-1,2015-12-13,White Hart Lane,Tottenham Hotspur,1,2,Newcastle United,Mauricio Pochettino,Steve McClaren,Sunday
+0,1,2015-12-12,Upton Park,West Ham United,0,0,Stoke City,Slaven Bilić,Mark Hughes,Saturday
+1,1,2015-12-21,Emirates Stadium,Arsenal,2,1,Manchester City,Arsène Wenger,Manuel Pellegrini,Monday
+1,1,2015-12-19,Stamford Bridge,Chelsea,3,1,Sunderland,Guus Hiddink,Sam Allardyce,Saturday
+-1,-1,2015-12-19,Goodison Park,Everton,2,3,Leicester City,Roberto Martínez,Claudio Ranieri,Saturday
+-1,1,2015-12-19,Old Trafford,Manchester United,1,2,Norwich City,Louis van Gaal,Alex Neil,Saturday
+0,0,2015-12-19,St James' Park,Newcastle United,1,1,Aston Villa,Steve McClaren,Rémi Garde,Saturday
+-1,-1,2015-12-19,St Mary's Stadium,Southampton,0,2,Tottenham Hotspur,Ronald Koeman,Mauricio Pochettino,Saturday
+-1,-1,2015-12-19,bet365 Stadium,Stoke City,1,2,Crystal Palace,Mark Hughes,Alan Pardew,Saturday
+0,0,2015-12-20,Swansea.com Stadium,Swansea City,0,0,West Ham United,Garry Monk,Slaven Bilić,Sunday
+1,1,2015-12-20,Vicarage Road,Watford,3,0,Liverpool,Quique Sánchez Flores,Jürgen Klopp,Sunday
+-1,-1,2015-12-19,The Hawthorns,West Bromwich Albion,1,2,Bournemouth,Tony Pulis,Eddie Howe,Saturday
+0,0,2015-12-26,Villa Park,Aston Villa,1,1,West Ham United,Rémi Garde,Slaven Bilić,Saturday
+0,0,2015-12-26,Vitality Stadium,Bournemouth,0,0,Crystal Palace,Eddie Howe,Alan Pardew,Saturday
+0,0,2015-12-26,Stamford Bridge,Chelsea,2,2,Watford,Guus Hiddink,Quique Sánchez Flores,Saturday
+1,1,2015-12-26,Anfield,Liverpool,1,0,Leicester City,Jürgen Klopp,Claudio Ranieri,Saturday
+1,1,2015-12-26,Etihad Stadium,Manchester City,4,1,Sunderland,Manuel Pellegrini,Sam Allardyce,Saturday
+-1,-1,2015-12-26,St James' Park,Newcastle United,0,1,Everton,Steve McClaren,Roberto Martínez,Saturday
+1,1,2015-12-26,St Mary's Stadium,Southampton,4,0,Arsenal,Ronald Koeman,Arsène Wenger,Saturday
+1,1,2015-12-26,bet365 Stadium,Stoke City,2,0,Manchester United,Mark Hughes,Louis van Gaal,Saturday
+1,1,2015-12-26,Swansea.com Stadium,Swansea City,1,0,West Bromwich Albion,Garry Monk,Tony Pulis,Saturday
+1,1,2015-12-26,White Hart Lane,Tottenham Hotspur,3,0,Norwich City,Mauricio Pochettino,Alex Neil,Saturday
+1,1,2015-12-28,Emirates Stadium,Arsenal,2,0,Bournemouth,Arsène Wenger,Eddie Howe,Monday
+0,0,2015-12-28,Selhurst Park,Crystal Palace,0,0,Swansea City,Alan Pardew,Garry Monk,Monday
+-1,-1,2015-12-28,Goodison Park,Everton,3,4,Stoke City,Roberto Martínez,Mark Hughes,Monday
+0,0,2015-12-29,King Power Stadium,Leicester City,0,0,Manchester City,Claudio Ranieri,Manuel Pellegrini,Tuesday
+0,0,2015-12-28,Old Trafford,Manchester United,0,0,Chelsea,Louis van Gaal,Guus Hiddink,Monday
+1,1,2015-12-28,Carrow Road,Norwich City,2,0,Aston Villa,Alex Neil,Rémi Garde,Monday
+-1,-1,2015-12-30,Stadium of Light,Sunderland,0,1,Liverpool,Sam Allardyce,Jürgen Klopp,Wednesday
+-1,-1,2015-12-28,Vicarage Road,Watford,1,2,Tottenham Hotspur,Quique Sánchez Flores,Mauricio Pochettino,Monday
+1,1,2015-12-28,The Hawthorns,West Bromwich Albion,1,0,Newcastle United,Tony Pulis,Steve McClaren,Monday
+1,1,2015-12-28,Upton Park,West Ham United,2,1,Southampton,Slaven Bilić,Ronald Koeman,Monday
+-1,-1,2015-08-14,Villa Park,Aston Villa,0,1,Manchester United,Tim Sherwood,Louis van Gaal,Friday
+-1,-1,2015-08-16,Selhurst Park,Crystal Palace,1,2,Arsenal,Alan Pardew,Arsène Wenger,Sunday
+1,1,2015-08-17,Anfield,Liverpool,1,0,Bournemouth,Brendan Rodgers,Eddie Howe,Monday
+1,1,2015-08-16,Etihad Stadium,Manchester City,3,0,Chelsea,Manuel Pellegrini,José Mourinho,Sunday
+-1,-1,2015-08-15,St Mary's Stadium,Southampton,0,3,Everton,Ronald Koeman,Roberto Martínez,Saturday
+-1,-1,2015-08-15,Stadium of Light,Sunderland,1,3,Norwich City,Dick Advocaat,Alex Neil,Saturday
+1,1,2015-08-15,Swansea.com Stadium,Swansea City,2,0,Newcastle United,Garry Monk,Steve McClaren,Saturday
+0,0,2015-08-15,White Hart Lane,Tottenham Hotspur,2,2,Stoke City,Mauricio Pochettino,Mark Hughes,Saturday
+0,0,2015-08-15,Vicarage Road,Watford,0,0,West Bromwich Albion,Quique Sánchez Flores,Tony Pulis,Saturday
+-1,-1,2015-08-15,Upton Park,West Ham United,1,2,Leicester City,Slaven Bilić,Claudio Ranieri,Saturday
+1,1,2016-01-02,Emirates Stadium,Arsenal,1,0,Newcastle United,Arsène Wenger,Steve McClaren,Saturday
+-1,-1,2016-01-03,Selhurst Park,Crystal Palace,0,3,Chelsea,Alan Pardew,Guus Hiddink,Sunday
+0,0,2016-01-03,Goodison Park,Everton,1,1,Tottenham Hotspur,Roberto Martínez,Mauricio Pochettino,Sunday
+0,0,2016-01-02,King Power Stadium,Leicester City,0,0,Bournemouth,Claudio Ranieri,Eddie Howe,Saturday
+1,1,2016-01-02,Old Trafford,Manchester United,2,1,Swansea City,Louis van Gaal,Garry Monk,Saturday
+1,1,2016-01-02,Carrow Road,Norwich City,1,0,Southampton,Alex Neil,Ronald Koeman,Saturday
+1,1,2016-01-02,Stadium of Light,Sunderland,3,1,Aston Villa,Sam Allardyce,Rémi Garde,Saturday
+-1,-1,2016-01-02,Vicarage Road,Watford,1,2,Manchester City,Quique Sánchez Flores,Manuel Pellegrini,Saturday
+1,1,2016-01-02,The Hawthorns,West Bromwich Albion,2,1,Stoke City,Tony Pulis,Mark Hughes,Saturday
+1,1,2016-01-02,Upton Park,West Ham United,2,0,Liverpool,Slaven Bilić,Jürgen Klopp,Saturday
+1,1,2016-01-12,Villa Park,Aston Villa,1,0,Crystal Palace,Rémi Garde,Alan Pardew,Tuesday
+-1,-1,2016-01-12,Vitality Stadium,Bournemouth,1,3,West Ham United,Eddie Howe,Slaven Bilić,Tuesday
+-1,-1,2016-01-13,Swansea.com Stadium,Swansea City,2,4,Sunderland,Garry Monk,Sam Allardyce,Wednesday
+0,0,2016-01-13,Anfield,Liverpool,3,3,Arsenal,Jürgen Klopp,Arsène Wenger,Wednesday
+0,1,2016-01-13,Stamford Bridge,Chelsea,2,2,West Bromwich Albion,Guus Hiddink,Tony Pulis,Wednesday
+0,1,2016-01-13,Etihad Stadium,Manchester City,0,0,Everton,Manuel Pellegrini,Roberto Martínez,Wednesday
+0,0,2016-01-12,St James' Park,Newcastle United,3,3,Manchester United,Steve McClaren,Louis van Gaal,Tuesday
+1,1,2016-01-13,St Mary's Stadium,Southampton,2,0,Watford,Ronald Koeman,Quique Sánchez Flores,Wednesday
+1,1,2016-01-13,bet365 Stadium,Stoke City,3,1,Norwich City,Mark Hughes,Alex Neil,Wednesday
+-1,1,2016-01-13,White Hart Lane,Tottenham Hotspur,0,1,Leicester City,Mauricio Pochettino,Claudio Ranieri,Wednesday
+0,0,2016-01-16,Villa Park,Aston Villa,1,1,Leicester City,Rémi Garde,Claudio Ranieri,Saturday
+1,1,2016-01-16,Vitality Stadium,Bournemouth,3,0,Norwich City,Eddie Howe,Alex Neil,Saturday
+0,1,2016-01-16,Stamford Bridge,Chelsea,3,3,Everton,Guus Hiddink,Roberto Martínez,Saturday
+-1,-1,2016-01-17,Anfield,Liverpool,0,1,Manchester United,Jürgen Klopp,Louis van Gaal,Sunday
+1,1,2016-01-16,Etihad Stadium,Manchester City,4,0,Crystal Palace,Manuel Pellegrini,Alan Pardew,Saturday
+1,1,2016-01-16,St James' Park,Newcastle United,2,1,West Ham United,Steve McClaren,Slaven Bilić,Saturday
+1,1,2016-01-16,St Mary's Stadium,Southampton,3,0,West Bromwich Albion,Ronald Koeman,Tony Pulis,Saturday
+0,0,2016-01-17,bet365 Stadium,Stoke City,0,0,Arsenal,Mark Hughes,Arsène Wenger,Sunday
+1,1,2016-01-18,Swansea.com Stadium,Swansea City,1,0,Watford,Garry Monk,Quique Sánchez Flores,Monday
+1,1,2016-01-16,White Hart Lane,Tottenham Hotspur,4,1,Sunderland,Mauricio Pochettino,Sam Allardyce,Saturday
+-1,1,2016-01-24,Emirates Stadium,Arsenal,0,1,Chelsea,Arsène Wenger,Guus Hiddink,Sunday
+-1,-1,2016-01-23,Selhurst Park,Crystal Palace,1,3,Tottenham Hotspur,Alan Pardew,Mauricio Pochettino,Saturday
+-1,1,2016-01-24,Goodison Park,Everton,1,2,Swansea City,Roberto Martínez,Garry Monk,Sunday
+1,1,2016-01-23,King Power Stadium,Leicester City,3,0,Stoke City,Claudio Ranieri,Mark Hughes,Saturday
+-1,-1,2016-01-23,Old Trafford,Manchester United,0,1,Southampton,Louis van Gaal,Ronald Koeman,Saturday
+-1,-1,2016-01-23,Carrow Road,Norwich City,4,5,Liverpool,Alex Neil,Jürgen Klopp,Saturday
+0,0,2016-01-23,Stadium of Light,Sunderland,1,1,Bournemouth,Sam Allardyce,Eddie Howe,Saturday
+1,1,2016-01-23,Vicarage Road,Watford,2,1,Newcastle United,Quique Sánchez Flores,Steve McClaren,Saturday
+0,0,2016-01-23,The Hawthorns,West Bromwich Albion,0,0,Aston Villa,Tony Pulis,Rémi Garde,Saturday
+0,1,2016-01-23,Upton Park,West Ham United,2,2,Manchester City,Slaven Bilić,Manuel Pellegrini,Saturday
+0,0,2016-02-02,Emirates Stadium,Arsenal,0,0,Southampton,Arsène Wenger,Ronald Koeman,Tuesday
+1,1,2016-02-02,King Power Stadium,Leicester City,2,0,Liverpool,Claudio Ranieri,Jürgen Klopp,Tuesday
+-1,-1,2016-02-02,Carrow Road,Norwich City,0,3,Tottenham Hotspur,Alex Neil,Mauricio Pochettino,Tuesday
+-1,-1,2016-02-02,Stadium of Light,Sunderland,0,1,Manchester City,Sam Allardyce,Manuel Pellegrini,Tuesday
+0,0,2016-02-03,Vicarage Road,Watford,0,0,Chelsea,Quique Sánchez Flores,Guus Hiddink,Wednesday
+1,1,2016-02-02,Upton Park,West Ham United,2,0,Aston Villa,Slaven Bilić,Rémi Garde,Tuesday
+-1,-1,2016-02-02,Selhurst Park,Crystal Palace,1,2,Bournemouth,Alan Pardew,Eddie Howe,Tuesday
+1,1,2016-02-02,Old Trafford,Manchester United,3,0,Stoke City,Louis van Gaal,Mark Hughes,Tuesday
+0,-1,2016-02-02,The Hawthorns,West Bromwich Albion,1,1,Swansea City,Tony Pulis,Garry Monk,Tuesday
+1,1,2016-02-03,Goodison Park,Everton,3,0,Newcastle United,Roberto Martínez,Steve McClaren,Wednesday
+1,1,2016-02-06,Villa Park,Aston Villa,2,0,Norwich City,Rémi Garde,Alex Neil,Saturday
+-1,-1,2016-02-07,Vitality Stadium,Bournemouth,0,2,Arsenal,Eddie Howe,Arsène Wenger,Sunday
+0,0,2016-02-07,Stamford Bridge,Chelsea,1,1,Manchester United,Guus Hiddink,Louis van Gaal,Sunday
+0,0,2016-02-06,Anfield,Liverpool,2,2,Sunderland,Jürgen Klopp,Sam Allardyce,Saturday
+-1,-1,2016-02-06,Etihad Stadium,Manchester City,1,3,Leicester City,Manuel Pellegrini,Claudio Ranieri,Saturday
+1,1,2016-02-06,St James' Park,Newcastle United,1,0,West Bromwich Albion,Steve McClaren,Tony Pulis,Saturday
+1,1,2016-02-06,St Mary's Stadium,Southampton,1,0,West Ham United,Ronald Koeman,Slaven Bilić,Saturday
+-1,-1,2016-02-06,bet365 Stadium,Stoke City,0,3,Everton,Mark Hughes,Roberto Martínez,Saturday
+0,0,2016-02-06,Swansea.com Stadium,Swansea City,1,1,Crystal Palace,Garry Monk,Alan Pardew,Saturday
+1,1,2016-02-06,White Hart Lane,Tottenham Hotspur,1,0,Watford,Mauricio Pochettino,Quique Sánchez Flores,Saturday
+1,1,2016-02-14,Emirates Stadium,Arsenal,2,1,Leicester City,Arsène Wenger,Claudio Ranieri,Sunday
+-1,-1,2016-02-14,Villa Park,Aston Villa,0,6,Liverpool,Rémi Garde,Jürgen Klopp,Sunday
+-1,1,2016-02-13,Vitality Stadium,Bournemouth,1,3,Stoke City,Eddie Howe,Mark Hughes,Saturday
+1,1,2016-02-13,Stamford Bridge,Chelsea,5,1,Newcastle United,Guus Hiddink,Steve McClaren,Saturday
+-1,-1,2016-02-13,Selhurst Park,Crystal Palace,1,2,Watford,Alan Pardew,Quique Sánchez Flores,Saturday
+-1,-1,2016-02-13,Goodison Park,Everton,0,1,West Bromwich Albion,Roberto Martínez,Tony Pulis,Saturday
+-1,1,2016-02-14,Etihad Stadium,Manchester City,1,2,Tottenham Hotspur,Manuel Pellegrini,Mauricio Pochettino,Sunday
+0,0,2016-02-13,Carrow Road,Norwich City,2,2,West Ham United,Alex Neil,Slaven Bilić,Saturday
+1,1,2016-02-13,Stadium of Light,Sunderland,2,1,Manchester United,Sam Allardyce,Louis van Gaal,Saturday
+-1,-1,2016-02-13,Swansea.com Stadium,Swansea City,0,1,Southampton,Garry Monk,Ronald Koeman,Saturday
+1,1,2016-02-27,King Power Stadium,Leicester City,1,0,Norwich City,Claudio Ranieri,Alex Neil,Saturday
+1,1,2016-04-20,Anfield,Liverpool,4,0,Everton,Jürgen Klopp,Roberto Martínez,Wednesday
+1,1,2016-02-28,Old Trafford,Manchester United,3,2,Arsenal,Louis van Gaal,Arsène Wenger,Sunday
+0,0,2016-04-19,St James' Park,Newcastle United,1,1,Manchester City,Rafael Benítez,Manuel Pellegrini,Tuesday
+-1,-1,2016-02-27,St Mary's Stadium,Southampton,1,2,Chelsea,Ronald Koeman,Guus Hiddink,Saturday
+1,1,2016-02-27,bet365 Stadium,Stoke City,2,1,Aston Villa,Mark Hughes,Rémi Garde,Saturday
+1,1,2016-02-28,White Hart Lane,Tottenham Hotspur,2,1,Swansea City,Mauricio Pochettino,Garry Monk,Sunday
+0,-1,2016-02-27,Vicarage Road,Watford,0,0,Bournemouth,Quique Sánchez Flores,Eddie Howe,Saturday
+1,1,2016-02-27,The Hawthorns,West Bromwich Albion,3,2,Crystal Palace,Tony Pulis,Alan Pardew,Saturday
+1,1,2016-02-27,Upton Park,West Ham United,1,0,Sunderland,Slaven Bilić,Sam Allardyce,Saturday
+-1,1,2016-03-02,Emirates Stadium,Arsenal,1,2,Swansea City,Arsène Wenger,Garry Monk,Wednesday
+-1,-1,2016-03-01,Villa Park,Aston Villa,1,3,Everton,Rémi Garde,Roberto Martínez,Tuesday
+1,1,2016-03-01,Vitality Stadium,Bournemouth,2,0,Southampton,Eddie Howe,Ronald Koeman,Tuesday
+0,1,2016-03-01,King Power Stadium,Leicester City,2,2,West Bromwich Albion,Claudio Ranieri,Tony Pulis,Tuesday
+-1,-1,2016-03-01,Carrow Road,Norwich City,1,2,Chelsea,Alex Neil,Guus Hiddink,Tuesday
+0,0,2016-03-01,Stadium of Light,Sunderland,2,2,Crystal Palace,Sam Allardyce,Alan Pardew,Tuesday
+1,1,2016-03-02,Upton Park,West Ham United,1,0,Tottenham Hotspur,Slaven Bilić,Mauricio Pochettino,Wednesday
+1,1,2016-03-02,Anfield,Liverpool,3,0,Manchester City,Jürgen Klopp,Manuel Pellegrini,Wednesday
+1,1,2016-03-02,Old Trafford,Manchester United,1,0,Watford,Louis van Gaal,Quique Sánchez Flores,Wednesday
+1,1,2016-03-02,bet365 Stadium,Stoke City,1,0,Newcastle United,Mark Hughes,Steve McClaren,Wednesday
+0,1,2016-03-05,Stamford Bridge,Chelsea,1,1,Stoke City,Guus Hiddink,Mark Hughes,Saturday
+-1,-1,2016-03-06,Selhurst Park,Crystal Palace,1,2,Liverpool,Alan Pardew,Jürgen Klopp,Sunday
+-1,-1,2016-03-05,Goodison Park,Everton,2,3,West Ham United,Roberto Martínez,Slaven Bilić,Saturday
+1,1,2016-03-05,Etihad Stadium,Manchester City,4,0,Aston Villa,Manuel Pellegrini,Rémi Garde,Saturday
+-1,-1,2016-03-05,St James' Park,Newcastle United,1,3,Bournemouth,Steve McClaren,Eddie Howe,Saturday
+0,0,2016-03-05,St Mary's Stadium,Southampton,1,1,Sunderland,Ronald Koeman,Sam Allardyce,Saturday
+1,1,2016-03-05,Swansea.com Stadium,Swansea City,1,0,Norwich City,Garry Monk,Alex Neil,Saturday
+0,1,2016-03-05,White Hart Lane,Tottenham Hotspur,2,2,Arsenal,Mauricio Pochettino,Arsène Wenger,Saturday
+-1,-1,2016-03-05,Vicarage Road,Watford,0,1,Leicester City,Quique Sánchez Flores,Claudio Ranieri,Saturday
+1,1,2016-03-06,The Hawthorns,West Bromwich Albion,1,0,Manchester United,Tony Pulis,Louis van Gaal,Sunday
+0,0,2015-08-24,Emirates Stadium,Arsenal,0,0,Liverpool,Arsène Wenger,Brendan Rodgers,Monday
+1,1,2015-08-22,Selhurst Park,Crystal Palace,2,1,Aston Villa,Alan Pardew,Tim Sherwood,Saturday
+-1,-1,2015-08-23,Goodison Park,Everton,0,2,Manchester City,Roberto Martínez,Manuel Pellegrini,Sunday
+0,1,2015-08-22,King Power Stadium,Leicester City,1,1,Tottenham Hotspur,Claudio Ranieri,Mauricio Pochettino,Saturday
+0,0,2015-08-22,Old Trafford,Manchester United,0,0,Newcastle United,Louis van Gaal,Steve McClaren,Saturday
+0,0,2015-08-22,Carrow Road,Norwich City,1,1,Stoke City,Alex Neil,Mark Hughes,Saturday
+0,0,2015-08-22,Stadium of Light,Sunderland,1,1,Swansea City,Dick Advocaat,Garry Monk,Saturday
+0,0,2015-08-23,Vicarage Road,Watford,0,0,Southampton,Quique Sánchez Flores,Ronald Koeman,Sunday
+-1,-1,2015-08-23,The Hawthorns,West Bromwich Albion,2,3,Chelsea,Tony Pulis,José Mourinho,Sunday
+-1,-1,2015-08-22,Upton Park,West Ham United,3,4,Bournemouth,Slaven Bilić,Eddie Howe,Saturday
+1,1,2016-04-21,Emirates Stadium,Arsenal,2,0,West Bromwich Albion,Arsène Wenger,Tony Pulis,Thursday
+-1,-1,2016-03-13,Villa Park,Aston Villa,0,2,Tottenham Hotspur,Rémi Garde,Mauricio Pochettino,Sunday
+1,1,2016-03-12,Vitality Stadium,Bournemouth,3,2,Swansea City,Eddie Howe,Garry Monk,Saturday
+1,1,2016-03-14,King Power Stadium,Leicester City,1,0,Newcastle United,Claudio Ranieri,Rafael Benítez,Monday
+0,0,2016-05-11,Anfield,Liverpool,1,1,Chelsea,Jürgen Klopp,Guus Hiddink,Wednesday
+1,1,2016-04-20,Old Trafford,Manchester United,2,0,Crystal Palace,Louis van Gaal,Alan Pardew,Wednesday
+0,0,2016-03-12,Carrow Road,Norwich City,0,0,Manchester City,Alex Neil,Manuel Pellegrini,Saturday
+-1,-1,2016-03-12,bet365 Stadium,Stoke City,1,2,Southampton,Mark Hughes,Ronald Koeman,Saturday
+1,1,2016-05-11,Stadium of Light,Sunderland,3,0,Everton,Sam Allardyce,Roberto Martínez,Wednesday
+1,1,2016-04-20,Upton Park,West Ham United,3,1,Watford,Slaven Bilić,Quique Sánchez Flores,Wednesday
+0,0,2016-03-19,Stamford Bridge,Chelsea,2,2,West Ham United,Guus Hiddink,Slaven Bilić,Saturday
+-1,-1,2016-03-19,Selhurst Park,Crystal Palace,0,1,Leicester City,Alan Pardew,Claudio Ranieri,Saturday
+-1,-1,2016-03-19,Goodison Park,Everton,0,2,Arsenal,Roberto Martínez,Arsène Wenger,Saturday
+-1,-1,2016-03-20,Etihad Stadium,Manchester City,0,1,Manchester United,Manuel Pellegrini,Louis van Gaal,Sunday
+0,0,2016-03-20,St James' Park,Newcastle United,1,1,Sunderland,Rafael Benítez,Sam Allardyce,Sunday
+1,1,2016-03-20,St Mary's Stadium,Southampton,3,2,Liverpool,Ronald Koeman,Jürgen Klopp,Sunday
+1,1,2016-03-19,Swansea.com Stadium,Swansea City,1,0,Aston Villa,Garry Monk,Rémi Garde,Saturday
+1,1,2016-03-20,White Hart Lane,Tottenham Hotspur,3,0,Bournemouth,Mauricio Pochettino,Eddie Howe,Sunday
+-1,-1,2016-03-19,Vicarage Road,Watford,1,2,Stoke City,Quique Sánchez Flores,Mark Hughes,Saturday
+-1,0,2016-03-19,The Hawthorns,West Bromwich Albion,0,1,Norwich City,Tony Pulis,Alex Neil,Saturday
+1,1,2016-04-02,Emirates Stadium,Arsenal,4,0,Watford,Arsène Wenger,Quique Sánchez Flores,Saturday
+-1,-1,2016-04-02,Villa Park,Aston Villa,0,4,Chelsea,Eric Black (caretaker),Guus Hiddink,Saturday
+-1,-1,2016-04-02,Vitality Stadium,Bournemouth,0,4,Manchester City,Eddie Howe,Manuel Pellegrini,Saturday
+1,1,2016-04-03,King Power Stadium,Leicester City,1,0,Southampton,Claudio Ranieri,Ronald Koeman,Sunday
+0,0,2016-04-02,Anfield,Liverpool,1,1,Tottenham Hotspur,Jürgen Klopp,Mauricio Pochettino,Saturday
+1,1,2016-04-03,Old Trafford,Manchester United,1,0,Everton,Louis van Gaal,Roberto Martínez,Sunday
+1,1,2016-04-02,Carrow Road,Norwich City,3,2,Newcastle United,Alex Neil,Rafael Benítez,Saturday
+0,0,2016-04-02,bet365 Stadium,Stoke City,2,2,Swansea City,Mark Hughes,Garry Monk,Saturday
+0,1,2016-04-02,Stadium of Light,Sunderland,0,0,West Bromwich Albion,Sam Allardyce,Tony Pulis,Saturday
+0,0,2016-04-02,Upton Park,West Ham United,2,2,Crystal Palace,Slaven Bilić,Alan Pardew,Saturday
+-1,-1,2016-04-09,Villa Park,Aston Villa,1,2,Bournemouth,Eric Black (caretaker),Eddie Howe,Saturday
+1,1,2016-04-09,Selhurst Park,Crystal Palace,1,0,Norwich City,Alan Pardew,Alex Neil,Saturday
+1,1,2016-04-10,Anfield,Liverpool,4,1,Stoke City,Jürgen Klopp,Mark Hughes,Sunday
+1,1,2016-04-09,Etihad Stadium,Manchester City,2,1,West Bromwich Albion,Manuel Pellegrini,Tony Pulis,Saturday
+1,1,2016-04-09,St Mary's Stadium,Southampton,3,1,Newcastle United,Ronald Koeman,Rafael Benítez,Saturday
+-1,-1,2016-04-10,Stadium of Light,Sunderland,0,2,Leicester City,Sam Allardyce,Claudio Ranieri,Sunday
+1,1,2016-04-09,Swansea.com Stadium,Swansea City,1,0,Chelsea,Garry Monk,Guus Hiddink,Saturday
+1,1,2016-04-10,White Hart Lane,Tottenham Hotspur,3,0,Manchester United,Mauricio Pochettino,Louis van Gaal,Sunday
+0,0,2016-04-09,Vicarage Road,Watford,1,1,Everton,Quique Sánchez Flores,Roberto Martínez,Saturday
+0,0,2016-04-09,Upton Park,West Ham United,3,3,Arsenal,Slaven Bilić,Arsène Wenger,Saturday
+0,1,2016-04-17,Emirates Stadium,Arsenal,1,1,Crystal Palace,Arsène Wenger,Alan Pardew,Sunday
+-1,-1,2016-04-17,Vitality Stadium,Bournemouth,1,2,Liverpool,Eddie Howe,Jürgen Klopp,Sunday
+-1,-1,2016-04-16,Stamford Bridge,Chelsea,0,3,Manchester City,Guus Hiddink,Manuel Pellegrini,Saturday
+0,-1,2016-04-16,Goodison Park,Everton,1,1,Southampton,Roberto Martínez,Ronald Koeman,Saturday
+0,0,2016-04-17,King Power Stadium,Leicester City,2,2,West Ham United,Claudio Ranieri,Slaven Bilić,Sunday
+1,1,2016-04-16,Old Trafford,Manchester United,1,0,Aston Villa,Louis van Gaal,Eric Black (caretaker),Saturday
+1,1,2016-04-16,St James' Park,Newcastle United,3,0,Swansea City,Rafael Benítez,Garry Monk,Saturday
+-1,1,2016-04-16,Carrow Road,Norwich City,0,3,Sunderland,Alex Neil,Sam Allardyce,Saturday
+-1,-1,2016-04-18,bet365 Stadium,Stoke City,0,4,Tottenham Hotspur,Mark Hughes,Mauricio Pochettino,Monday
+-1,-1,2016-04-16,The Hawthorns,West Bromwich Albion,0,1,Watford,Tony Pulis,Quique Sánchez Flores,Saturday
+-1,-1,2016-04-23,Villa Park,Aston Villa,2,4,Southampton,Eric Black (caretaker),Ronald Koeman,Saturday
+-1,-1,2016-04-23,Vitality Stadium,Bournemouth,1,4,Chelsea,Eddie Howe,Guus Hiddink,Saturday
+0,-1,2016-04-13,Selhurst Park,Crystal Palace,0,0,Everton,Alan Pardew,Roberto Martínez,Wednesday
+1,1,2016-04-24,King Power Stadium,Leicester City,4,0,Swansea City,Claudio Ranieri,Garry Monk,Sunday
+0,1,2016-04-23,Anfield,Liverpool,2,2,Newcastle United,Jürgen Klopp,Rafael Benítez,Saturday
+1,1,2016-04-23,Etihad Stadium,Manchester City,4,0,Stoke City,Manuel Pellegrini,Mark Hughes,Saturday
+1,1,2016-05-11,Carrow Road,Norwich City,4,2,Watford,Alex Neil,Quique Sánchez Flores,Wednesday
+0,0,2016-04-24,Stadium of Light,Sunderland,0,0,Arsenal,Sam Allardyce,Arsène Wenger,Sunday
+0,0,2016-04-25,White Hart Lane,Tottenham Hotspur,1,1,West Bromwich Albion,Mauricio Pochettino,Tony Pulis,Monday
+1,1,2016-05-10,Upton Park,West Ham United,3,2,Manchester United,Slaven Bilić,Louis van Gaal,Tuesday
+1,1,2016-04-30,Emirates Stadium,Arsenal,1,0,Norwich City,Arsène Wenger,Alex Neil,Saturday
+0,0,2016-05-02,Stamford Bridge,Chelsea,2,2,Tottenham Hotspur,Guus Hiddink,Mauricio Pochettino,Monday
+1,1,2016-04-30,Goodison Park,Everton,2,1,Bournemouth,Roberto Martínez,Eddie Howe,Saturday
+0,0,2016-05-01,Old Trafford,Manchester United,1,1,Leicester City,Louis van Gaal,Claudio Ranieri,Sunday
+1,1,2016-04-30,St James' Park,Newcastle United,1,0,Crystal Palace,Rafael Benítez,Alan Pardew,Saturday
+1,-1,2016-05-01,St Mary's Stadium,Southampton,4,2,Manchester City,Ronald Koeman,Manuel Pellegrini,Sunday
+0,0,2016-04-30,bet365 Stadium,Stoke City,1,1,Sunderland,Mark Hughes,Sam Allardyce,Saturday
+1,1,2016-05-01,Swansea.com Stadium,Swansea City,3,1,Liverpool,Garry Monk,Jürgen Klopp,Sunday
+1,1,2016-04-30,Vicarage Road,Watford,3,2,Aston Villa,Quique Sánchez Flores,Eric Black (caretaker),Saturday
+-1,1,2016-04-30,The Hawthorns,West Bromwich Albion,0,3,West Ham United,Tony Pulis,Slaven Bilić,Saturday
+0,0,2016-05-07,Villa Park,Aston Villa,0,0,Newcastle United,Eric Black (caretaker),Rafael Benítez,Saturday
+0,0,2016-05-07,Vitality Stadium,Bournemouth,1,1,West Bromwich Albion,Eddie Howe,Tony Pulis,Saturday
+1,1,2016-05-07,Selhurst Park,Crystal Palace,2,1,Stoke City,Alan Pardew,Mark Hughes,Saturday
+1,1,2016-05-07,King Power Stadium,Leicester City,3,1,Everton,Claudio Ranieri,Roberto Martínez,Saturday
+1,1,2016-05-08,Anfield,Liverpool,2,0,Watford,Jürgen Klopp,Quique Sánchez Flores,Sunday
+0,1,2016-05-08,Etihad Stadium,Manchester City,2,2,Arsenal,Manuel Pellegrini,Arsène Wenger,Sunday
+-1,-1,2016-05-07,Carrow Road,Norwich City,0,1,Manchester United,Alex Neil,Louis van Gaal,Saturday
+1,1,2016-05-07,Stadium of Light,Sunderland,3,2,Chelsea,Sam Allardyce,Guus Hiddink,Saturday
+-1,1,2016-05-08,White Hart Lane,Tottenham Hotspur,1,2,Southampton,Mauricio Pochettino,Ronald Koeman,Sunday
+-1,-1,2016-05-07,Upton Park,West Ham United,1,4,Swansea City,Slaven Bilić,Garry Monk,Saturday
+1,1,2016-05-15,Emirates Stadium,Arsenal,4,0,Aston Villa,Arsène Wenger,Eric Black (caretaker),Sunday
+0,0,2016-05-15,Stamford Bridge,Chelsea,1,1,Leicester City,Guus Hiddink,Claudio Ranieri,Sunday
+1,1,2016-05-15,Goodison Park,Everton,3,0,Norwich City,Roberto Martínez,Alex Neil,Sunday
+1,1,2016-05-17,Old Trafford,Manchester United,3,1,Bournemouth,Louis van Gaal,Eddie Howe,Tuesday
+1,1,2016-05-15,St James' Park,Newcastle United,5,1,Tottenham Hotspur,Rafael Benítez,Mauricio Pochettino,Sunday
+1,1,2016-05-15,St Mary's Stadium,Southampton,4,1,Crystal Palace,Ronald Koeman,Alan Pardew,Sunday
+1,1,2016-05-15,bet365 Stadium,Stoke City,2,1,West Ham United,Mark Hughes,Slaven Bilić,Sunday
+0,0,2016-05-15,Swansea.com Stadium,Swansea City,1,1,Manchester City,Garry Monk,Manuel Pellegrini,Sunday
+0,0,2016-05-15,Vicarage Road,Watford,2,2,Sunderland,Quique Sánchez Flores,Sam Allardyce,Sunday
+0,0,2016-05-15,The Hawthorns,West Bromwich Albion,1,1,Liverpool,Tony Pulis,Jürgen Klopp,Sunday
+0,0,2015-08-29,Villa Park,Aston Villa,2,2,Sunderland,Tim Sherwood,Dick Advocaat,Saturday
+0,0,2015-08-29,Vitality Stadium,Bournemouth,1,1,Leicester City,Eddie Howe,Claudio Ranieri,Saturday
+-1,-1,2015-08-29,Stamford Bridge,Chelsea,1,2,Crystal Palace,José Mourinho,Alan Pardew,Saturday
+-1,1,2015-08-29,Anfield,Liverpool,0,3,West Ham United,Brendan Rodgers,Slaven Bilić,Saturday
+1,1,2015-08-29,Etihad Stadium,Manchester City,2,0,Watford,Manuel Pellegrini,Quique Sánchez Flores,Saturday
+-1,-1,2015-08-29,St James' Park,Newcastle United,0,1,Arsenal,Steve McClaren,Arsène Wenger,Saturday
+1,1,2015-08-30,St Mary's Stadium,Southampton,3,0,Norwich City,Ronald Koeman,Alex Neil,Sunday
+-1,0,2015-08-29,bet365 Stadium,Stoke City,0,1,West Bromwich Albion,Mark Hughes,Tony Pulis,Saturday
+1,1,2015-08-30,Swansea.com Stadium,Swansea City,2,1,Manchester United,Garry Monk,Louis van Gaal,Sunday
+0,0,2015-08-29,White Hart Lane,Tottenham Hotspur,0,0,Everton,Mauricio Pochettino,Roberto Martínez,Saturday
+1,1,2015-09-12,Emirates Stadium,Arsenal,2,0,Stoke City,Arsène Wenger,Mark Hughes,Saturday
+-1,-1,2015-09-12,Selhurst Park,Crystal Palace,0,1,Manchester City,Alan Pardew,Manuel Pellegrini,Saturday
+1,1,2015-09-12,Goodison Park,Everton,3,1,Chelsea,Roberto Martínez,José Mourinho,Saturday
+1,1,2015-09-13,King Power Stadium,Leicester City,3,2,Aston Villa,Claudio Ranieri,Tim Sherwood,Sunday
+1,1,2015-09-12,Old Trafford,Manchester United,3,1,Liverpool,Louis van Gaal,Brendan Rodgers,Saturday
+1,1,2015-09-12,Carrow Road,Norwich City,3,1,Bournemouth,Alex Neil,Eddie Howe,Saturday
+-1,-1,2015-09-13,Stadium of Light,Sunderland,0,1,Tottenham Hotspur,Dick Advocaat,Mauricio Pochettino,Sunday
+1,1,2015-09-12,Vicarage Road,Watford,1,0,Swansea City,Quique Sánchez Flores,Garry Monk,Saturday
+0,0,2015-09-12,The Hawthorns,West Bromwich Albion,0,0,Southampton,Tony Pulis,Ronald Koeman,Saturday
+1,1,2015-09-14,Upton Park,West Ham United,2,0,Newcastle United,Slaven Bilić,Steve McClaren,Monday
+-1,-1,2015-09-19,Villa Park,Aston Villa,0,1,West Bromwich Albion,Tim Sherwood,Tony Pulis,Saturday
+1,1,2015-09-19,Vitality Stadium,Bournemouth,2,0,Sunderland,Eddie Howe,Dick Advocaat,Saturday
+1,1,2015-09-19,Stamford Bridge,Chelsea,2,0,Arsenal,José Mourinho,Arsène Wenger,Saturday
+0,1,2015-09-20,Anfield,Liverpool,1,1,Norwich City,Brendan Rodgers,Alex Neil,Sunday
+-1,1,2015-09-19,Etihad Stadium,Manchester City,1,2,West Ham United,Manuel Pellegrini,Slaven Bilić,Saturday
+-1,-1,2015-09-19,St James' Park,Newcastle United,1,2,Watford,Steve McClaren,Quique Sánchez Flores,Saturday
+-1,-1,2015-09-20,St Mary's Stadium,Southampton,2,3,Manchester United,Ronald Koeman,Louis van Gaal,Sunday
+0,0,2015-09-19,bet365 Stadium,Stoke City,2,2,Leicester City,Mark Hughes,Claudio Ranieri,Saturday
+0,0,2015-09-19,Swansea.com Stadium,Swansea City,0,0,Everton,Garry Monk,Roberto Martínez,Saturday
+1,1,2015-09-20,White Hart Lane,Tottenham Hotspur,1,0,Crystal Palace,Mauricio Pochettino,Alan Pardew,Sunday
+-1,-1,2015-09-26,King Power Stadium,Leicester City,2,5,Arsenal,Claudio Ranieri,Arsène Wenger,Saturday
+1,1,2015-09-26,Anfield,Liverpool,3,2,Aston Villa,Brendan Rodgers,Tim Sherwood,Saturday
+1,1,2015-09-26,Old Trafford,Manchester United,3,0,Sunderland,Louis van Gaal,Dick Advocaat,Saturday
+0,0,2015-09-26,St James' Park,Newcastle United,2,2,Chelsea,Steve McClaren,José Mourinho,Saturday
+1,1,2015-09-26,St Mary's Stadium,Southampton,3,1,Swansea City,Ronald Koeman,Garry Monk,Saturday
+1,1,2015-09-26,bet365 Stadium,Stoke City,2,1,Bournemouth,Mark Hughes,Eddie Howe,Saturday
+1,1,2015-09-26,White Hart Lane,Tottenham Hotspur,4,1,Manchester City,Mauricio Pochettino,Manuel Pellegrini,Saturday
+-1,-1,2015-09-27,Vicarage Road,Watford,0,1,Crystal Palace,Quique Sánchez Flores,Alan Pardew,Sunday
+-1,-1,2015-09-28,The Hawthorns,West Bromwich Albion,2,3,Everton,Tony Pulis,Roberto Martínez,Monday
+0,0,2015-09-26,Upton Park,West Ham United,2,2,Norwich City,Slaven Bilić,Alex Neil,Saturday
+1,1,2015-10-04,Emirates Stadium,Arsenal,3,0,Manchester United,Arsène Wenger,Louis van Gaal,Sunday
+-1,-1,2015-10-03,Villa Park,Aston Villa,0,1,Stoke City,Tim Sherwood,Mark Hughes,Saturday
+0,0,2015-10-03,Vitality Stadium,Bournemouth,1,1,Watford,Eddie Howe,Quique Sánchez Flores,Saturday
+-1,1,2015-10-03,Stamford Bridge,Chelsea,1,3,Southampton,José Mourinho,Ronald Koeman,Saturday
+1,1,2015-10-03,Selhurst Park,Crystal Palace,2,0,West Bromwich Albion,Alan Pardew,Tony Pulis,Saturday
+0,0,2015-10-04,Goodison Park,Everton,1,1,Liverpool,Roberto Martínez,Brendan Rodgers,Sunday
+1,1,2015-10-03,Etihad Stadium,Manchester City,6,1,Newcastle United,Manuel Pellegrini,Steve McClaren,Saturday
+-1,-1,2015-10-03,Carrow Road,Norwich City,1,2,Leicester City,Alex Neil,Claudio Ranieri,Saturday
+0,0,2015-10-03,Stadium of Light,Sunderland,2,2,West Ham United,Dick Advocaat,Slaven Bilić,Saturday
+0,0,2015-10-04,Swansea.com Stadium,Swansea City,2,2,Tottenham Hotspur,Garry Monk,Mauricio Pochettino,Sunday
+1,1,2015-10-17,Stamford Bridge,Chelsea,2,0,Aston Villa,José Mourinho,Tim Sherwood,Saturday
+-1,-1,2015-10-17,Selhurst Park,Crystal Palace,1,3,West Ham United,Alan Pardew,Slaven Bilić,Saturday
+-1,-1,2015-10-17,Goodison Park,Everton,0,3,Manchester United,Roberto Martínez,Louis van Gaal,Saturday
+1,1,2015-10-17,Etihad Stadium,Manchester City,5,1,Bournemouth,Manuel Pellegrini,Eddie Howe,Saturday
+1,1,2015-10-18,St James' Park,Newcastle United,6,2,Norwich City,Steve McClaren,Alex Neil,Sunday
+0,0,2015-10-17,St Mary's Stadium,Southampton,2,2,Leicester City,Ronald Koeman,Claudio Ranieri,Saturday
+-1,-1,2015-10-19,Swansea.com Stadium,Swansea City,0,1,Stoke City,Garry Monk,Mark Hughes,Monday
+0,0,2015-10-17,White Hart Lane,Tottenham Hotspur,0,0,Liverpool,Mauricio Pochettino,Jürgen Klopp,Saturday
+-1,-1,2015-10-17,Vicarage Road,Watford,0,3,Arsenal,Quique Sánchez Flores,Arsène Wenger,Saturday
+1,1,2015-10-17,The Hawthorns,West Bromwich Albion,1,0,Sunderland,Tony Pulis,Sam Allardyce,Saturday
