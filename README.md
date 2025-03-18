@@ -11,7 +11,7 @@ MVP produced a football (soccer) match prediction model based on 2008-2016 Premi
 - See Intro_clean_EDA for introduction and data exploration with extensive commentary
 - Logistic Regression and Random Forest classifiers for predicting results of matches
   
-# **Jan 2025 Update**:#
+# **Jan 2025 Update**:
 
 This is one of the two 'premier' projects I will be building out to illustrate my skillset. There are opportunities for unsupervised learning, pipeline building for the data preprocessing, other MLOps and other directions the data storytelling can go in.
 
