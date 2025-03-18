@@ -17,4 +17,5 @@ This is one of the two 'premier' projects I will be building out to illustrate m
 
 # Future goals (more to follow)
 - Use match data eg. shots, fouls, possession, average player positions to evaluate changes in football style & philosophy (e.g. short passing intensive Tiki Taka emerging 2008 onwards)
-- The original database in SQL has betting odds from across a number of bookmakers. Explore the accuracy and performance of these over time.
+
+- The original database in SQL has betting odds from across a number of bookmakers. Explore the accuracy and performance of bookmakers over time & most problematic matches.
